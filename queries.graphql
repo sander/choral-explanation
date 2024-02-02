@@ -1,7 +1,7 @@
 query questions($spaceNameId: UUID_NAMEID!) {
   space(ID: $spaceNameId) {
     collaboration {
-      callouts(limit: 5) {
+      callouts(limit: 500) {
         nameID
         type
         createdBy {
