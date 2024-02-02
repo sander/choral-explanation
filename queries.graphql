@@ -1,0 +1,9 @@
+query questions($spaceNameId: UUID_NAMEID!){
+  space(ID: $spaceNameId){
+    collaboration{
+      callouts(limit: 2){
+        nameID
+        type
+        framing{
+          profile{
+            displayName}}}}}}
