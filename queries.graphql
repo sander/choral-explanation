@@ -1,9 +1,51 @@
-query questions($spaceNameId: UUID_NAMEID!){
-  space(ID: $spaceNameId){
-    collaboration{
-      callouts(limit: 2){
+query questions($spaceNameId: UUID_NAMEID!) {
+  space(ID: $spaceNameId) {
+    collaboration {
+      callouts(limit: 5) {
         nameID
         type
-        framing{
-          profile{
-            displayName}}}}}}
+        createdBy {
+          profile {
+            url
+            displayName
+          }
+        }
+        framing {
+          profile {
+            url
+            displayName
+            description
+          }
+        }
+        contributions {
+          post {
+            nameID
+            createdBy {
+              profile {
+                url
+                displayName
+              }
+            }
+            profile {
+              url
+              displayName
+              description
+            }
+            comments {
+              messages {
+                sender {
+                  profile {
+                    url
+                    displayName
+                  }
+                }
+                timestamp
+                message
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
