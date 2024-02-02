@@ -1,10 +1,10 @@
-[Alkemio](https://welcome.alkem.io/) › [TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [Kan een bank SCA delegeren aan een QTSP?](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
-Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+[🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
+# [🏔️ Kan een bank SCA delegeren aan een QTSP?](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
+Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 >Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* (SCA) kan delegeren aan een gekwalificeerd vertrouwensdienstverlener onder de eIDAS, met het oog op hergebruik van wallets en eventuele verplichtingen uit de herziening van eIDAS.
 ## Antwoorden
->### [Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+>### [🏔️ Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
 >>[IANAL](https://en.wikipedia.org/wiki/IANAL) maar bij deze wat ik begrijp op basis van een aantal gesprekken.
 >>
 >>Banken zijn onder PSD2 Artikel 97(1) verplicht om SCA uit te voeren bij toegang, initiatie betaaltransacties, en andere riskante online acties. In Artikel 4(3) definieert PSD2 het concept SCA als multi-factor authenticatie van de gebruiker.
@@ -24,9 +24,9 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>
 >>In eIDAS is de aansprakelijkheid voor de schade rond vertrouwensdienstverlening geregeld. Deze zal in de praktijk veel lager liggen dan de onterecht verplaatste €100M. Daarmee lijkt de beperking in aansprakelijkheid door QTSPs geen barrière.
 >#### Reacties
->>##### [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 18:56 UTC
+>>##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 18:56 UTC
 >>>Zie ook deze gerelateerde vraag: [Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden?](https://alkem.io/tip/collaboration/watmoetergeregeld-7715).
->>##### [Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) 2024-01-15 15:47 UTC
+>>##### [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) 2024-01-15 15:47 UTC
 >>>👍
 * * *
-_Bijdragen zijn gelicenseerd onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)._
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

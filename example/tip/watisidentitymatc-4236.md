@@ -1,10 +1,10 @@
-[Alkemio](https://welcome.alkem.io/) › [TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [Wat is identity matching en discovery?](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
-Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+[🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
+# [🏔️ Wat is identity matching en discovery?](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
+Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 >Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity matching en discovery behelzen, zodat we hier een standaard op kunnen vaststellen. (Denk aan BSN, pseudoniemen en koppelcodes.)
 ## Antwoorden
->### [Scriptie TU Delft over identity matching in Europa op basis van het BRP](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
+>### [🏔️ Scriptie TU Delft over identity matching in Europa op basis van het BRP](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
 >>Zie scriptie [*Dutch Identity Matching: The Devil’s in the Details*](https://repository.tudelft.nl/islandora/object/uuid%3A5d52babb-c6b0-4c96-8f93-8f3129ba448d) door Anton Welling de Arruda.
 >>
 >>Hier wordt *identity matching* gedefinieerd als: het proces om te bepalen of een persoon al een account heeft bij de dienst waar deze zijn zich wil laten authenticeren. De scriptie verkent een Europese implementatie voor identity matching ondersteund door de Nederlandse Basisregistratie Personen (BRP).
@@ -59,12 +59,12 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>
 >>De auteur concludeert dat de wallet-aanbiedersgerichte oplossingsrichting het meest wenselijk is verband met de behoefte aan privacy en controle voor burgers.
 >#### Reacties
->>##### [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-30 17:28 UTC
+>>##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-30 17:28 UTC
 >>>[@Paul Staal](https://alkem.io/user/paul-staal-854) beter laat dan nooit: ik zou je nog eens inzichten op dit onderwerp sturen. Dit is een eerste stuk.
->>##### [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-30 17:29 UTC
+>>##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-30 17:29 UTC
 >>>[@Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) dank nog voor het delen. Ik heb mijn samenvatting hier geplaatst. Weet jij of dit onderwerp verder binnen TU Delft / Digicampus / BZK is opgepakt?
->### [Discovery van digitale identiteiten en adressen](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
+>### [🏔️ Discovery van digitale identiteiten en adressen](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
 >>In de [When Willeke can get rid of paperwork](https://repository.tudelft.nl/islandora/object/uuid%3A4c2005ea-9cfd-420f-80fb-e8714be0bdd5) introduceren we het vermogen van *discovery* (ontdekken, vinden): het kunnen **herkennen** en **adresseren** van andere identiteiten. Dit is voor TIP relevant: als straks iedereen een betrouwbare digitale identiteit heeft, hoe vind ik die dan zonder toegang tot een centraal telefoonboek?
 >>
 >>In de fysieke wereld kunnen we dit doen door te vertrouwen op fysieke eigenschappen zoals menselijke lichamen en thuis- of kantooradressen.
@@ -78,10 +78,10 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>*   Zoals beschreven in [Scriptie TU Delft over identity matching in Europa op basis van het BRP](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196): personen halen een identiteitsverklaring op bij een centrale basisregistratie, om zich via een website-authenticatie kenbaar te maken.
 >>*   Zoals beschreven in [Ontwerppatronen voor het koppelen van identiteiten](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306): personen halen een identiteitsverklaring op bij een QTSP (op basis van een centrale basisregistratie), om zich via een out-of-band verkregen koppelcode kenbaar te maken via infrastructuur voor berichtuitwisseling.
 >#### Reacties
->>##### [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-31 09:03 UTC
+>>##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-08-31 09:03 UTC
 >>>[@Paul Staal](https://alkem.io/user/paul-staal-854) Gisteren deelde ik met je een samenvatting van de TU Delft-scriptie over identity matching. Bij deze ter info een korte algemenere inleiding op de concepten identity linking en discovery.
->### [Ontwerppatronen voor het koppelen van identiteiten](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
+>### [🏔️ Ontwerppatronen voor het koppelen van identiteiten](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
 >>In de context van project HDN Goed IDee schreef ik *Design patterns for identity linking*, versie 2 van 2022-10-28.
 >>
 >>In dit stuk bedoel ik met *identity linking* ongeveer hetzelfde als de scriptie [Dutch Identity Matching](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196) bedoelt met *identity matching*: het koppelen van inkomende persoonsidentificatiegegevens (PID) uit andermans dossier aan een eigen dossier binnen een gegeven context.
@@ -111,4 +111,4 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>
 >>Binnen HDN Goed IDee is dan ook gekozen voor platform-beheerde connecties. Deze zijn we nu aan het beproeven.
 * * *
-_Bijdragen zijn gelicenseerd onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)._
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

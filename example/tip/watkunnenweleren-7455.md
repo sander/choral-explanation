@@ -1,10 +1,10 @@
-[Alkemio](https://welcome.alkem.io/) › [TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [Wat kunnen we leren van het gebruik en toepassing van vertrouwensdiensten in Brazilië?](https://alkem.io/tip/collaboration/watkunnenweleren-7455)
-Oorspronkelijk gevraagd door [Sander Boer](https://alkem.io/user/sander-boer-499)
+[🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
+# [🏔️ Wat kunnen we leren van het gebruik en toepassing van vertrouwensdiensten in Brazilië?](https://alkem.io/tip/collaboration/watkunnenweleren-7455)
+Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
 >Pronova (een TSP uit Brazilië  en actief in Canada, UK, Portugal) en ITI ( Instituto Nacional de Tecnologia da Informação)   hebben in een kennisbijeenkomst vertelt over het gebruik en de adoptie van vertrouwensdiensten door burgers en bedrijven. In dat land is de adoptiegraad en het gebruik van vertrouwensdiensten een stuk hoger; zo heeft bijna iedere burger/bedrijf een certificaat en daarmee kan je qua elektronische dienstverlening bijna alles online doen. Vragen die aan de orde komen zijn: hoe gebruiken ze vertrouwensdiensten bij het delen van gegevens?  Hoe gaan ze om met het valideren van verzegelde en ondertekende informatie? Wat zijn de drivers achter de adoptie?
 ## Antwoorden
->### [Recap van ontmoeting Pronova en ITI](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
->Oorspronkelijk geantwoord door [Sander Boer](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
+>### [🏔️ Recap van ontmoeting Pronova en ITI](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
+>Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
 >>In Zuid Amerika is het gebruik van vertrouwensdiensten voor burgers en bedrijven omvangrijker en meer genormaliseerd dan hier in Nederland. Bedrijven zijn bijvoorbeeld verplicht alle facturen digitaal te ondertekenen; bedrijven gebruiken het ook als identificatiemiddel in het elektronische verkeer en om daarmee te handelen. Voor burgers bestaat deze mogelijkheid ook maar dan is het een keuze. De vertrouwensdiensten worden geleverd door private partijen en staan onder regie/toezicht van de Braziliaanse overheid (ITI). Het is daarmee een publiek private samenwerking. Een mogelijke verklaring dat het gebruik van vertrouwensdiensten genormaliseerd is komt is dat dit een maatregel is om fraude tegen te gaan. En deze maatregel werkt. De toepassingen die we hebben gezien is het registreren en ondertekenen van machtigingen (gaat via een notaris), het hebben van een rijbewijs op je mobiel waarbij je ook kan zien of het juist ondertekend is en geldig (dwz niet ingetrokken door de overheid), pompstations die door het ijkwezen zijn gecontroleerd en de apparaten een qr / url meegeven zodat burgers dat kunnen controleren.
 >>
 >>De notaris speelt een belangrijke rol om het het attesteren van attributen mogelijk te maken. Deze partij controleert en tekent mee zodat de verklaringen extra gewicht en betrouwbaarheid krijgen.
@@ -47,4 +47,4 @@ Oorspronkelijk gevraagd door [Sander Boer](https://alkem.io/user/sander-boer-499
 >>
 >>\*Bijdragen zijn gelicenseerd onder \*[*CC BY 4.0*](https://creativecommons.org/licenses/by/4.0/deed.nl).
 * * *
-_Bijdragen zijn gelicenseerd onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)._
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

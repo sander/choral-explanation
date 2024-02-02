@@ -1,6 +1,6 @@
-[Alkemio](https://welcome.alkem.io/) › [TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [Analyse van gerelateerde initiatieven](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
-Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+[🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
+# [🏔️ Analyse van gerelateerde initiatieven](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
+Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 >Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze [kennisbank](https://alkem.io/tip/knowledge-base). Bijvoorbeeld:
 >
 >*   [Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](https://alkem.io/tip/collaboration/watvoorwallet-init-2068)
@@ -12,8 +12,8 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >
 >De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
 ## Antwoorden
->### [DIIP](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+>### [🏔️ DIIP](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
 >>## Beschrijving
 >>
 >>### Wat is het initiatief?
@@ -51,8 +51,8 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>### Zijn er andere basisfunctionaliteiten van TIP van toepassing? Hoe verhoudt dit initiatief zich tot die TIP-basisfunctionaliteit?
 >>
 >>*   Attestation of attributes: DIIP heeft een nadere uitwerking van enkele ARF-standaarden waar TIP naar verwijst als een van de mogelijkheden om attributen te attesteren. Daarbij is DIIP meer “opiniated” in haar keuze voor de W3C-standaarden in plaats van de ISO-standaarden. Voor toepassingen in TIP zullen ook andere standaarden relevant blijven.
->### [Potential](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+>### [🏔️ Potential](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
 >>## Beschrijving
 >>
 >>### Wat is het initiatief?
@@ -86,8 +86,8 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>### Zijn er andere basisfunctionaliteiten van TIP van toepassing? Hoe verhoudt dit initiatief zich tot die TIP-basisfunctionaliteit?
 >>
 >>*   Attestation of attributes: in 2024 kijkt UC5 naar welke attestering een QTSP nodig heeft om de sleutel voor handtekeningen/zegels te activeren, en eventueel om er een certificaat over uit te geven.
->### [Peppol](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
->Oorspronkelijk geantwoord door [Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+>### [🏔️ Peppol](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+>Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
 >>## Beschrijving
 >>
 >>### Wat is het initiatief?
@@ -133,8 +133,8 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>### Zijn er andere basisfunctionaliteiten van TIP van toepassing? Hoe verhoudt dit initiatief zich tot die TIP-basisfunctionaliteit?
 >>
 >>Later
->### [Nuts (Zorg)](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
->Oorspronkelijk geantwoord door [Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+>### [🏔️ Nuts (Zorg)](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+>Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
 >>## Beschrijving
 >>
 >>### Wat is het initiatief?
@@ -175,7 +175,7 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>
 >>*…*
 >#### Reacties
->>##### [Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
+>>##### [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
 >>>Algemene info
 >>>https://nuts.nl
 >>>
@@ -185,4 +185,4 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>>Momenteel (voor de migratie) zijn de dit de docs:
 >>>https://nuts-foundation.gitbook.io/v1/
 * * *
-_Bijdragen zijn gelicenseerd onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)._
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

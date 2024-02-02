@@ -1,10 +1,10 @@
-[Alkemio](https://welcome.alkem.io/) › [TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138)
-Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+[🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
+# [🏔️ Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138)
+Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 >Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprakenstelsels zijn en hoe we die inzichten toepassen om effectief publiek-privaat samen te werken aan veilig online zakendoen.
 ## Antwoorden
->### [Aantekeningen kennissessie 21 april ](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
->Oorspronkelijk geantwoord door [Sjoerd Stamhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
+>### [🏔️ Aantekeningen kennissessie 21 april ](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
+>Oorspronkelijk geantwoord door [🏔️ Sjoerd Stamhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
 >>**Vraagstelling:**\
 >>*Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprakenstelsels zijn en hoe we die inzichten toepassen om effectief publiek-privaat samen te werken aan veilig online zakendoen*
 >>
@@ -21,8 +21,8 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>Hoe kan TIP zich positioneren in het politieke en juridische spel? De kunst is hier om te manoeuvreren tussen de verschillende onderdelen. Het is zeer belangrijk om precies te zijn in de boodschap die je wilt brengen als TIP. Het lijkt er bijvoorbeeld op dat er momenteel veel gevoeligheid is op politiek vlak rond de toegang tot persoonsgegevens. Hier zou het kunnen inzetten op het faciliteren voor het veilig uitwisselen van gegevens een sterkere insteek kunnen zijn. Dit omdat deze politiek minder gevoelig is waardoor het gemakkelijker is om samen te werken aan het afsprakenstelsel.
 >>
 >>De slides bij deze kennissessie kunnen we op verzoek delen.
->### [Raamwerken en abstractieniveaus](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
->Oorspronkelijk geantwoord door [Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
+>### [🏔️ Raamwerken en abstractieniveaus](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
+>Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
 >>Paul wees me op de publicatie [Distinguishing between Theory, Theoretical Framework, and Conceptual Framework: A Systematic Review of Lessons from the Field](https://www.sciedupress.com/journal/index.php/ijhe/article/view/14566/8962) (Kivunja, 2018). Deze schetst een probleem dat ik ook zie terugkeren in gesprekken over vertrouwensraamwerken: op welk abstractieniveau spreken we?
 >>
 >>Als ik probeer de concepten van Kivunja te mappen, hebben we:
@@ -32,4 +32,4 @@ Oorspronkelijk gevraagd door [Sander Dijkhuis](https://alkem.io/user/sander-dijk
 >>*   Een theoretisch raamwerk: stukken die we over deze TIP-theorie vaststellen om het afsprakenstelsel op te baseren. Bijvoorbeeld een richtlijn om handelingsomgevingen tegen te toetsen ([Hoe toets ik een handelingsomgeving tegen de afspraken van TIP?](https://alkem.io/tip/collaboration/hoetoetsikeenhan-831)).
 >>*   Conceptueel raamwerk: het vertrouwensraamwerk inclusief bijbehorende processen en afspraken ([Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138)).
 * * *
-_Bijdragen zijn gelicenseerd onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)._
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
