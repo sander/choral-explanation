@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat kunnen we als TIP leren van OpenPeppol als raamwerk om gegevens uit te wisselen?
->Om te komen tot een multi corner model voor uitwisseling is er een structuur nodig om elkaar te vinden en om met elkaar te verbinden. OpenPeppol heeft binnen en buiten Europa een dergelijke structuur voor het ontvangen en versturen van orders en facturen. Wat kunnen we daarvan leren?
-
-Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516)
+Om te komen tot een multi corner model voor uitwisseling is er een structuur nodig om elkaar te vinden en om met elkaar te verbinden. OpenPeppol heeft binnen en buiten Europa een dergelijke structuur voor het ontvangen en versturen van orders en facturen. Wat kunnen we daarvan leren?
+> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516)
 
 ## Antwoorden
 - ### <a id="besteenhoopov-1407"></a> 📌 Best een hoop.... over Peppol
@@ -16,10 +15,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
   
   Het is mogelijk om binnen Openpeppol een structuur neer te zetten om de communicatie tussen QTSP's mogelijk te maken. Dit kan helpen bij het realiseren van een interoperabiliteitsframework tussen verschillende QERDS aanbieders (zie ETSI EN 319 522 1 daar staat geen gemeenschappelijke infrastructuur in en Peppol zou daar ook geschikt voor kunnen zijn) . Het is ook mogelijk om eisen te stellen op welk betrouwbaarheidsniveau een gebruiker (bedrijf of persoon) geïdentificeerd moet zijn. Peppol maakt hier nu nog geen gebruik van binnen factuur en orderstromen maar het ligt in de lijn van de verwachting dat dit er wel tzt gaat komen. Er bestaat nu nog geen implementatie waarbij een QERDS gecombineerd is met een Peppol uitwisselstroom maar dit is wel mogelijk. Verder zijn er binnen peppol ook mogelijkheden om berichten op inhoud te controleren en dat maakt het waarschijnlijk ook mogelijk om validatiefuncties in te richten.
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Kan je in bulk gekwalificeerd verschillende documenten ondertekenen?
->Als casus: nu gebruikt een bestuurder een foto van de natte handtekening om gebruikersvriendelijk contracten te ondertekenen. Als dat verandert naar gekwalificeerd ondertekenen en de bestuurder moet ze stuk voor stuk zelf ondertekenen (elk met pincode) verdwijnt de gebruikersvriendelijkheid. Is het mogelijk om ook in bulk dergelijke zaken in één keer te ondertekenen, zowel technisch als juridisch?
-
-Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135)
+Als casus: nu gebruikt een bestuurder een foto van de natte handtekening om gebruikersvriendelijk contracten te ondertekenen. Als dat verandert naar gekwalificeerd ondertekenen en de bestuurder moet ze stuk voor stuk zelf ondertekenen (elk met pincode) verdwijnt de gebruikersvriendelijkheid. Is het mogelijk om ook in bulk dergelijke zaken in één keer te ondertekenen, zowel technisch als juridisch?
+> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135)
 
 ## Antwoorden
 - ### <a id="gekwalificeerdinbu-4305"></a> 📌 Gekwalificeerd in bulk ondertekenen is niet gebruikelijk
@@ -28,10 +27,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
   
   SCP 94: When bulk signing is supported, the SCA should provide a report of a bulk signature process including a list of every SD included in the bulk signing.
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

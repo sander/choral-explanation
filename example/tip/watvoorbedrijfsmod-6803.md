@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat voor bedrijfsmodellen maakt de EUDI-wallet mogelijk rond handtekeningen en identiteits- en toegangsbeheer?
->Als leverancier wil ik weten wat voor bedrijfsmodellen er mogelijk zijn voor diensten rond gekwalificeerde handtekeningen en/of IAM, zodat ik deze in de praktijk kan valideren.
-
-Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803)
+Als leverancier wil ik weten wat voor bedrijfsmodellen er mogelijk zijn voor diensten rond gekwalificeerde handtekeningen en/of IAM, zodat ik deze in de praktijk kan valideren.
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803)
 
 ## Antwoorden
 - ### <a id="wewetenweldedoel-6141"></a> 📌 We weten wel de doelen van een marktmodel maar nog niet hoe dat in de praktijk gaat werken...
@@ -18,12 +17,11 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
 
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
-
-## Gerelateerd
+## Verwijzingen naar deze vraag
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

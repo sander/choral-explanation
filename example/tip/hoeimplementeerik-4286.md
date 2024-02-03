@@ -1,12 +1,11 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Hoe implementeer ik TIP binnen mijn organisatie?
->Als zakelijk expert of manager binnen een TIP betrokken organisatie wil ik weten __hoe__ ik binnen mijn organisatie begin met de implementatie van afspraken en principes van TIP.
+Als zakelijk expert of manager binnen een TIP betrokken organisatie wil ik weten __hoe__ ik binnen mijn organisatie begin met de implementatie van afspraken en principes van TIP.
+
+Kan ik ergens een starterspakket vinden?
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 >
->Kan ik ergens een starterspakket vinden?
-
-Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286)
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286)
 
 ## Antwoorden
 - ### <a id="dehandtekeningvan-1835"></a> 📌 De Handtekening van de Toekomst
@@ -16,12 +15,11 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   <br>
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
 
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
-
-## Gerelateerd
+## Verwijzingen naar deze vraag
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

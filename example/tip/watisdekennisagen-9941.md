@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is de kennisagenda van TIP?
->Als TIP-partner wil ik weten __wat__ de kennisagenda van TIP is, zodat ik weet waar ik aan kan bijdragen.
-
-Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941)
+Als TIP-partner wil ik weten __wat__ de kennisagenda van TIP is, zodat ik weet waar ik aan kan bijdragen.
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941)
 
 ## Antwoorden
 - ### <a id="kennisagenda-5711"></a> 📌 Kennisagenda
@@ -55,12 +54,11 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   *   [📄 Welke kennis-infrastructuur wordt voor TIP ingericht?](welkekennis-infrast-7437.md)
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
 
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
-
-## Gerelateerd
+## Verwijzingen naar deze vraag
 - [📌 Welke kennis-infrastructuur wordt voor TIP ingericht? Roadmap op kennis-infrastructuur](welkekennis-infrast-7437.md#roadmapopkennis-in-7750)
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

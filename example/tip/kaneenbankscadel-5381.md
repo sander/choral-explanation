@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Kan een bank SCA delegeren aan een QTSP?
->Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* (SCA) kan delegeren aan een gekwalificeerd vertrouwensdienstverlener onder de eIDAS, met het oog op hergebruik van wallets en eventuele verplichtingen uit de herziening van eIDAS.
-
-Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
-
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
+Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* (SCA) kan delegeren aan een gekwalificeerd vertrouwensdienstverlener onder de eIDAS, met het oog op hergebruik van wallets en eventuele verplichtingen uit de herziening van eIDAS.
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
 
 ## Antwoorden
 - ### <a id="toepassingvangekwa-1586"></a> 📌 Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid
@@ -27,17 +26,18 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   In eIDAS is de aansprakelijkheid voor de schade rond vertrouwensdienstverlening geregeld. Deze zal in de praktijk veel lager liggen dan de onterecht verplaatste €100M. Daarmee lijkt de beperking in aansprakelijkheid door QTSPs geen barrière.
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
 
   #### Reacties
-    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 18:56 UTC
-      >Zie ook deze gerelateerde vraag: [📄 Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden?](watmoetergeregeld-7715.md).
-    - ##### [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) 2024-01-15 15:47 UTC
-      >👍
-## Gerelateerd
+    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 18:56 UTC
+          
+      Zie ook deze gerelateerde vraag: [📄 Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden?](watmoetergeregeld-7715.md).
+    - > [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) 2024-01-15 15:47 UTC
+          
+      👍
+## Verwijzingen naar deze vraag
 - [📌 Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden? Mogelijke rol voor QTSP](watmoetergeregeld-7715.md#mogelijkerolvoorq-9971)
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

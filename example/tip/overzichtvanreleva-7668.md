@@ -1,19 +1,18 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Analyse van gerelateerde initiatieven
->Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze [🌐 kennisbank](https://alkem.io/tip/knowledge-base). Bijvoorbeeld:
->
->*   [📄 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](watvoorwallet-init-2068.md)
->*   [📄 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP?](watvoorinitiatieve-1713.md)
->
->Daarnaast ontwikkelen we met TIP Werkgroep Kennis een gestructureerd overzicht langs een aantal vragen. Deze vragenlijst herzien we continu op basis van voortschrijdend inzicht. We nodigen je graag uit om het formulier in te vullen voor relevante initiatieven.
->
->We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [📄 Wat zijn de basisfunctionaliteiten van TIP?](watzijndebasisfun-743.md)
->
->De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [🌐 Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [🌐 Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
+Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze [🌐 kennisbank](https://alkem.io/tip/knowledge-base). Bijvoorbeeld:
 
-Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+*   [📄 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](watvoorwallet-init-2068.md)
+*   [📄 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP?](watvoorinitiatieve-1713.md)
 
-[`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
+Daarnaast ontwikkelen we met TIP Werkgroep Kennis een gestructureerd overzicht langs een aantal vragen. Deze vragenlijst herzien we continu op basis van voortschrijdend inzicht. We nodigen je graag uit om het formulier in te vullen voor relevante initiatieven.
+
+We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [📄 Wat zijn de basisfunctionaliteiten van TIP?](watzijndebasisfun-743.md)
+
+De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [🌐 Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [🌐 Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+>
+> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
 
 ## Antwoorden
 - ### <a id="diip-7901"></a> 📌 DIIP
@@ -55,10 +54,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   *   Attestation of attributes: DIIP heeft een nadere uitwerking van enkele ARF-standaarden waar TIP naar verwijst als een van de mogelijkheden om attributen te attesteren. Daarbij is DIIP meer “opiniated” in haar keuze voor de W3C-standaarden in plaats van de ISO-standaarden. Voor toepassingen in TIP zullen ook andere standaarden relevant blijven.
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
 
 - ### <a id="potentialuc5-2150"></a> 📌 Potential
   ## Beschrijving
@@ -95,10 +93,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   *   Attestation of attributes: in 2024 kijkt UC5 naar welke attestering een QTSP nodig heeft om de sleutel voor handtekeningen/zegels te activeren, en eventueel om er een certificaat over uit te geven.
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
 
 - ### <a id="peppol-6470"></a> 📌 Peppol
   ## Beschrijving
@@ -147,10 +144,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   Later
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
 
 - ### <a id="nutszorg-9315"></a> 📌 Nuts (Zorg)
   ## Beschrijving
@@ -193,20 +189,20 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   *…*
 
-  ***
-  Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
-
-  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+  >
+  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
 
   #### Reacties
-    - ##### [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
-      >Algemene info
-      >https://nuts.nl
-      >
-      >In deze video wordt de roadmap, tijdlijn en migratiepad uitgelegd
-      >https://www.youtube.com/watch?v=lXcc0LJNahg
-      >
-      >Momenteel (voor de migratie) zijn de dit de docs:
-      >https://nuts-foundation.gitbook.io/v1/
+    - > [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
+          
+      Algemene info
+      https://nuts.nl
+      
+      In deze video wordt de roadmap, tijdlijn en migratiepad uitgelegd
+      https://www.youtube.com/watch?v=lXcc0LJNahg
+      
+      Momenteel (voor de migratie) zijn de dit de docs:
+      https://nuts-foundation.gitbook.io/v1/
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
