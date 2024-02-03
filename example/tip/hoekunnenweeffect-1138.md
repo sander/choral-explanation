@@ -22,6 +22,7 @@ Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprak
   
   De slides bij deze kennissessie kunnen we op verzoek delen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sjoerd Stamhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
 
 - ### <a id="raamwerkenenabstra-6127"></a> 📌 Raamwerken en abstractieniveaus
@@ -34,6 +35,7 @@ Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprak
   *   Een theoretisch raamwerk: stukken die we over deze TIP-theorie vaststellen om het afsprakenstelsel op te baseren. Bijvoorbeeld een richtlijn om handelingsomgevingen tegen te toetsen ([📄 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP?](hoetoetsikeenhan-831.md)).
   *   Conceptueel raamwerk: het vertrouwensraamwerk inclusief bijbehorende processen en afspraken ([📄 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](hoekunnenweeffect-1138.md)).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
 
 ## Verwijzingen naar deze vraag

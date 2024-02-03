@@ -9,6 +9,7 @@ Als uitgever of vertrouwende partij binnen TIP wil ik weten hoe ik vandaag toeko
   
   Voor TIP gebruiken we een vergelijkbare insteek voor de basisfunctionaliteit *Attestation of attributes*.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekaniknualtoe-5296/posts/implementerenvanee-1722). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekaniknualtoe-5296/posts/implementerenvanee-1722)
 
 * * *

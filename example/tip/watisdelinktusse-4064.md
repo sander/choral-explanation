@@ -14,6 +14,7 @@ Als onderzoeker wil ik weten in hoeverre het EUDI Framework uit de concept-wijzi
   
   De verwachting is dat verdere vocabularies en schema’s binnen de verschillende domeinen worden vastgesteld, zoals gebeurt bij Zorgeloos Vastgoed. Het ligt voor de hand om ook voor TIP vast te stellen welke credentials en bijbehorende vocabularies tenminste nodig zijn om de basisfunctie “Bewijzen eigenschap” in te vullen voor digitaal zakendoen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdelinktusse-4064/posts/eudiiseentoepassi-6449). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdelinktusse-4064/posts/eudiiseentoepassi-6449)
 
 * * *

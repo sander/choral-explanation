@@ -7,6 +7,7 @@ Als architect wil ik weten wat voor initiatieven er zijn voor de inzet van datak
 - ### <a id="solidcommunity-2317"></a> 📌 Solid Community
   Hierover spraken we tijdens de kennissessie van 10 november 2023 met de vertegenwoordiger van Solid Community Foundation. Deze stichting wil de implementatie van Solid voor datakluizen bevorderen. Zie ook: [📄 Wat is Solid?](watissolid-6045.md) Er kwamen meerdere Nederlandse initiatieven aan bod zoals de Nederlandse Datakluis ([📄 Wat is de Nederlandse Datakluis?](watisdenederlands-7532.md)) het Virtueel Inkomsten Loket.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watvoorinitiatieve-1713/posts/solidcommunity-2317). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorinitiatieve-1713/posts/solidcommunity-2317)
 
 ## Verwijzingen naar deze vraag

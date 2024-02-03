@@ -47,6 +47,7 @@ Pronova (een TSP uit Brazilië  en actief in Canada, UK, Portugal) en ITI ( Ins
   
   \*Bijdragen zijn gelicenseerd onder \*[🌐 *CC BY 4.0*](https://creativecommons.org/licenses/by/4.0/deed.nl).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
 
 * * *

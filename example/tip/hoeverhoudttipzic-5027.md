@@ -13,6 +13,7 @@ Welke rol speelt of gaat TIP spelen bij het programma Regie op Gegevens?
   
   TIP is een ecosysteem wat dit doel in de praktijk kan en gaat verwezenlijken.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809)
 
   #### Reacties

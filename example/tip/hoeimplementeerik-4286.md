@@ -13,6 +13,7 @@ Kan ik ergens een starterspakket vinden?
   
   <br>
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
 
 ## Verwijzingen naar deze vraag

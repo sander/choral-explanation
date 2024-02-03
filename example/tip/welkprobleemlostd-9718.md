@@ -9,6 +9,7 @@ Als architect wil ik begrijpen **wat** het probleem is waar de European Digital 
   
   Dat een elektronische identiteit handig en waardevol is spreekt voor zich, idem dito met standaarden om gegevens te delen etc. Een aantal oplossingen bestaan al een poos. Of er straks genoeg adoptie en draagvlak is voor een wallet is onzeker. Een mooie samenvatting van deze onzekerheden heeft Signicat mooi samengevat: [🌐 4 ways the EU digital wallet could fail - Signicat](https://www.signicat.com/blog/4-ways-the-eu-digital-wallet-could-fail)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/startwithwhy-3450). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/startwithwhy-3450)
 
 - ### <a id="voordelendigitalei-4764"></a> 📌 Voordelen Digitale identiteit vanuit economisch perspectief
@@ -42,11 +43,13 @@ Als architect wil ik begrijpen **wat** het probleem is waar de European Digital 
   
   Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/voordelendigitalei-4764). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/voordelendigitalei-4764)
 
 - ### <a id="paperoverbarrieres-2754"></a> 📌 Paper over barrières voor wallets
   Het onderzoek van [🌐 Lukkien e.a. (2023): Barriers for developing and launching digital identity wallets](https://dedigicampus.sharepoint.com/:b:/r/sites/Missie3Overheidalssterkedatapartner/Gedeelde%20documenten/General/TIP/6.%20Werkgroep%20Kennis/Artikelen/Lukkien%20e.a.%20\(2023\)%20Barriers%20for%20the%20adoption%20of%20data%20wallets.pdf?csf=1\&web=1\&e=mtvgbj) of een van de gebruikte bronnen biedt mogelijk een antwoord. Ik heb het nog niet helemaal gelezen, maar zie in elk geval citaten uit de evaluatie van eIDAS uit 2021, waarin wordt geconstateerd dat er weliswaar een grote behoefte was voor betrouwbaar identificeren en gegevens uitwisselen, maar de uitvoering van de bestaande regulering er onvoldoende slaagde om die behoefte in te vullen. De EUDI-wallet is een van de maatregelen op basis van die evaluatie.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/paperoverbarrieres-2754). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/paperoverbarrieres-2754)
 
 ## Verwijzingen naar deze vraag

@@ -19,6 +19,7 @@ Het zetten van een handtekening (nat/digitaal) op een blanco stuk papier zegt ni
   *   Verhoogt het vertrouwen en gemak van het digitaal ondertekenen.
   *   Eenduidigheid door kaderstelling minimale vereisten digitaal ondertekenen
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watzijnsignaturep-7232/posts/hoemaakjeafsprake-2166). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijnsignaturep-7232/posts/hoemaakjeafsprake-2166)
 
   #### Reacties

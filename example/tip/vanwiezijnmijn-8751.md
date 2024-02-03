@@ -23,6 +23,7 @@ De overheid heeft registraties over mijzelf opgeslagen in de diverse basisregist
   
   Wat straks de impact is mbt bovenstaande met de komst van de wet digitale overheid en de nieuwe eIDAS verordening is nog onduidelijk.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751/posts/bronhouderiseigena-9774). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751/posts/bronhouderiseigena-9774)
 
 * * *

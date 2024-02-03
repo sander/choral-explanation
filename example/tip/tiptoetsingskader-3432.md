@@ -11,11 +11,13 @@ Welke voorwaarden willen we hiervoor voorleggen?
   
   In het [🌐 Beleidsdossier Regie op Gegevens](https://rog.pleio.nl/groups/view/60cfba39-0fb2-4020-a0e1-3ce97a95c8ae/kennisbank-regie-op-gegevens/wiki/view/cf1bbb50-a953-49c0-901f-5f7b3ce82ce8/onderzoeken-en-publicaties) staan meer stukken, zoals een beschrijving van het vertrouwensraamwerk en een referentiearchitectuur.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuitregi-1725). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuitregi-1725)
 
 - ### <a id="onderzoeknaareffec-8525"></a> 📌 Onderzoek naar effectieve samenwerking
   Gerelateerd aan deze vraag hebben we eerder behandeld: [📄 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](hoekunnenweeffect-1138.md)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/onderzoeknaareffec-8525). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/onderzoeknaareffec-8525)
 
 - ### <a id="categorieenintoets-6290"></a> 📌 categorieën in toetsing
@@ -32,6 +34,7 @@ Welke voorwaarden willen we hiervoor voorleggen?
   *   Handhaving
   *   Kennisdelen
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Louise van der Peet](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/categorieenintoets-6290). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/categorieenintoets-6290)
 
   #### Reacties
@@ -51,6 +54,7 @@ Welke voorwaarden willen we hiervoor voorleggen?
 - ### <a id="voorbeeldenuiteu-i-7828"></a> 📌 Voorbeelden uit EU-initiatieven op interoperabiliteit
   De EU is kampioen in interoperabiliteit. Dus daar kunnen we voorbeelden uit gebruiken. Paul wees me bijvoorbeeld op [🌐 COM(2017)134](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2017%3A134%3AFIN), de implementatiestrategie van het European Interoperability Framework. Daar zie je ook hoe bijvoorbeeld een PvE in een overkoepelende strategie kan dienen als “instrument that support interoperability” ([📄 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP?](hoetoetsikeenhan-831.md)).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828)
 
 ## Verwijzingen naar deze vraag

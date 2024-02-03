@@ -7,6 +7,7 @@ Als deelnemer van TIP wil ik weten wat Solid is, zodat ik beter begrijp hoe de a
 - ### <a id="doelstellingenverw-3842"></a> 📌 Doelstelling en verwijzigingen
   [🌐 Solid](https://solidproject.org/) is een project van Tim Berners-Lee, bedenker van het World Wide Web. Doel van Solid is om met webstandaarden gegevens van verschillende webapplicaties op één door de gebruiker gekozen plek op te slaan. Voor interoperabiliteit wordt nadruk gelegd op [🌐 linked data](https://nl.wikipedia.org/wiki/Linked_data).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watissolid-6045/posts/doelstellingenverw-3842). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watissolid-6045/posts/doelstellingenverw-3842)
 
 ## Verwijzingen naar deze vraag

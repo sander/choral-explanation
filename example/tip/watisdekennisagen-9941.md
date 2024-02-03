@@ -52,6 +52,7 @@ Als TIP-partner wil ik weten __wat__ de kennisagenda van TIP is, zodat ik weet w
   
   *   [📄 Welke kennis-infrastructuur wordt voor TIP ingericht?](welkekennis-infrast-7437.md)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
 
 ## Verwijzingen naar deze vraag

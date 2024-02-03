@@ -11,6 +11,7 @@ Als vertrouwende partij op zowel gekwalificeerde elektronische handtekeningen (Q
   
   Risico op verkeerd gebruik blijft wel bestaan denk aan een kwaadwillende de telefoon kan gebruiken van iemand anders; zijn/haar PID gebruikt om rekeningen te openen en andere dingen te doen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659)
 
   #### Reacties

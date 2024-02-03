@@ -18,6 +18,7 @@ Bij implementatie van de basisfunctionaliteit *Signing data* wil ik weten welke 
   
   Het non-repudiation certificaat kan ook worden gebruikt voor authenticatie, met als kanttekening dat de ondertekende verklaring dan ook onweerlegbaar is.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351)
 
   #### Reacties
@@ -37,6 +38,7 @@ Bij implementatie van de basisfunctionaliteit *Signing data* wil ik weten welke 
   
   Het is raadzaam om het onderscheid expliciet te maken in een *signature policy* ([📄 Wat zijn signature policies en wat heb je er aan?](watzijnsignaturep-7232.md)) en bijvoorbeeld gebruik te maken van *commitment types* zoals beschreven in het ESI Framework.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288)
 
 * * *

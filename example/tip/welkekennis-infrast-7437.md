@@ -14,6 +14,7 @@ Als TIP-partner wil ik weten welke kennis-infrastructuur Werkgroep Kennis wil le
   *   [📄 Wat is de kennisagenda van TIP?](watisdekennisagen-9941.md)
   *   [📄 Wat spreken we af rond intellectueel eigendom van kennisbijdragen?](watsprekenweafro-7445.md)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750)
 
   #### Reacties

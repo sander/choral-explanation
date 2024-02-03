@@ -59,6 +59,7 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   
   De auteur concludeert dat de wallet-aanbiedersgerichte oplossingsrichting het meest wenselijk is verband met de behoefte aan privacy en controle voor burgers.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
 
   #### Reacties
@@ -82,6 +83,7 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   *   Zoals beschreven in [📌 Scriptie TU Delft over identity matching in Europa op basis van het BRP](watisidentitymatc-4236.md#scriptietudelft-196): personen halen een identiteitsverklaring op bij een centrale basisregistratie, om zich via een website-authenticatie kenbaar te maken.
   *   Zoals beschreven in [📌 Ontwerppatronen voor het koppelen van identiteiten](watisidentitymatc-4236.md#ontwerppatronenvoor-2306): personen halen een identiteitsverklaring op bij een QTSP (op basis van een centrale basisregistratie), om zich via een out-of-band verkregen koppelcode kenbaar te maken via infrastructuur voor berichtuitwisseling.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
 
   #### Reacties
@@ -118,6 +120,7 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   
   Binnen HDN Goed IDee is dan ook gekozen voor platform-beheerde connecties. Deze zijn we nu aan het beproeven.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
 
 ## Verwijzingen naar deze vraag

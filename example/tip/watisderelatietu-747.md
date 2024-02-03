@@ -11,6 +11,7 @@ Wat zijn de verschillen en overeenkomsten?
   
   De overeenkomst lijkt te zitten in data dalen vanuit de bron, waarbij consent voor toepassing en authenticiteit van data gewaarborgd zijn.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832)
 
 * * *

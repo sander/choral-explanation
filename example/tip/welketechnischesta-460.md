@@ -9,6 +9,7 @@ Als architect wil ik weten welke technische standaarden er zijn voor gekwalifice
   
   Naar verwachting wordt de besproken input binnenkort gedeeld op de website van Forum Standaardisatie.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketechnischesta-460/posts/evaluatieforumstan-6562). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketechnischesta-460/posts/evaluatieforumstan-6562)
 
 * * *

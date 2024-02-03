@@ -52,6 +52,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *   Attestation of attributes: DIIP heeft een nadere uitwerking van enkele ARF-standaarden waar TIP naar verwijst als een van de mogelijkheden om attributen te attesteren. Daarbij is DIIP meer “opiniated” in haar keuze voor de W3C-standaarden in plaats van de ISO-standaarden. Voor toepassingen in TIP zullen ook andere standaarden relevant blijven.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
 
 - ### <a id="potentialuc5-2150"></a> 📌 Potential
@@ -89,6 +90,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *   Attestation of attributes: in 2024 kijkt UC5 naar welke attestering een QTSP nodig heeft om de sleutel voor handtekeningen/zegels te activeren, en eventueel om er een certificaat over uit te geven.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
 
 - ### <a id="peppol-6470"></a> 📌 Peppol
@@ -138,6 +140,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   Later
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
 
 - ### <a id="nutszorg-9315"></a> 📌 Nuts (Zorg)
@@ -181,6 +184,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *…*
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
 
   #### Reacties

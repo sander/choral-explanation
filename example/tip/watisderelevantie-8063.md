@@ -11,6 +11,7 @@ Bij implementatie van de basisfunctie *Signing data* wil ik weten of de AdES Bas
   
   Een van de interviewverslagen is voor TIP-partners beschikbaar in SharePoint, [🌐 onder 2. Platform Overleg > 2023 > 20231019](https://dedigicampus.sharepoint.com/sites/Missie3Overheidalssterkedatapartner/Gedeelde%20documenten/Forms/AllItems.aspx?ga=1\&id=%2Fsites%2FMissie3Overheidalssterkedatapartner%2FGedeelde%20documenten%2FGeneral%2FTIP%2F2%2E%20Platform%20Overleg%2F2023%2F20231019%2F230922%20Innovalor%20Forum%20Standaardisatie%20Ades%20Interview%20Frans%20Hietbrink%2Epdf\&viewid=1b7d3a00%2De999%2D408c%2Da9fd%2Dcf05b40b7211\&parent=%2Fsites%2FMissie3Overheidalssterkedatapartner%2FGedeelde%20documenten%2FGeneral%2FTIP%2F2%2E%20Platform%20Overleg%2F2023%2F20231019).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisderelevantie-8063/posts/evaluatievoorforum-849). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelevantie-8063/posts/evaluatievoorforum-849)
 
 * * *

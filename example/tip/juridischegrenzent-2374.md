@@ -28,6 +28,7 @@ De vraag speelt waar voor je een Corporate Seal (CS) kan gebruiken (en wat daarv
   
   De bepalingen van zo’n aanvullend contract kunnen in een signature policy zijn vastgelegd. Door de CS dan toe te passen in combinatie met deze signature policy is duidelijk vastgelegd welke waarde betrokken partijen toekennen aan verzegelde documenten of berichten.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/juridischegrenzent-2374/posts/rechtsgevolgvolgens-1804). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/juridischegrenzent-2374/posts/rechtsgevolgvolgens-1804)
 
   #### Reacties

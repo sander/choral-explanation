@@ -13,6 +13,7 @@ Wat betekenen deze technologie voor TIP / vertrouwensdiensten?
 - ### <a id="hetzelfdeparadigma-3135"></a> 📌 Hetzelfde paradigma, mogelijk een enabler
   PET zijn technologieën voor risicobeperking bij informatieuitwisseling en -verwerking. De risico’s moeten uiteindelijk beoordeeld en gedragen worden door personen en organisaties in die informatieketens. Deze moeten bijvoorbeeld beoordelen welke technologie een risico voldoende mitigeren, en ingrijpen als de technologie tekort blijkt te schieten. Ook bij inzet van PET ligt voor de hand om de functie voor het (complexe) beheer van deze risico’s te delegeren aan een vertrouwensdienstverlener.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135)
 
 ## Verwijzingen naar deze vraag

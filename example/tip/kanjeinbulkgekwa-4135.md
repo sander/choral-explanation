@@ -25,6 +25,7 @@ Als casus: nu gebruikt een bestuurder een foto van de natte handtekening om gebr
   
   SCP 94: When bulk signing is supported, the SCA should provide a report of a bulk signature process including a list of every SD included in the bulk signing.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kanjeinbulkgekwa-4135/posts/gekwalificeerdinbu-4305)
 
 * * *

@@ -9,6 +9,7 @@ Als TIP-partner wil ik weten wat de toekomstige bewegingen zijn in harmonisatie 
   
   (Kan bij mij opgevraagd worden, [🌐 Alkem.io](http://Alkem.io) ondersteunt geen attachments)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ René Bonte](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922)
 
   #### Reacties

@@ -19,6 +19,7 @@ Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specif
   *   Consulting service chain specifications
   *   Making payments
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
 
   #### Reacties

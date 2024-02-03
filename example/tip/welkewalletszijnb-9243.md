@@ -11,6 +11,7 @@ Als TIP-partner wil ik weten met welke wallets ik rekening kan houden voor imple
   
   Hierin ontbreken momenteel nog wallets van QTSPs, en is niet duidelijk welke al geschikt zijn voor de basisfuncties van TIP. Deelnemers kunnen voorstellen voor wijzigingen doen om dit toe te voegen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkewalletszijnb-9243/posts/digitalwalletanda-2218). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkewalletszijnb-9243/posts/digitalwalletanda-2218)
 
 ## Verwijzingen naar deze vraag

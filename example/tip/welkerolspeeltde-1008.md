@@ -17,6 +17,7 @@ Als deelnemer in TIP wil ik begrijpen **wat** de rol is die de overheid speelt i
   
   *   financierend, denk aan het bieden van een platform voor publiek-private samenwerking
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
 
   #### Reacties

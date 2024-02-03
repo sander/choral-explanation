@@ -19,6 +19,7 @@ Volgens het TIP-gedachtengoed: is dit wenselijk?
   
   Om beter recht te doen aan de behoefte aan [🌐 Regie op Gegevens](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/), heeft het meer zin om te spreken van transacties, gefaciliteerd door dienstverleners onder onafhankelijk toezicht.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432)
 
   #### Reacties
@@ -33,6 +34,7 @@ Volgens het TIP-gedachtengoed: is dit wenselijk?
 - ### <a id="consumentkijktalle-5081"></a> 📌 Consument kijkt alleen naar doel
   Er is nog wel wat opvoeding nodig, voor een consument snapt dat-ie eerst moet nadenken over delen van gegevens en of dit in verhouding  is met het doel waarom er gegevens gedeeld worden
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Jan Schrama](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081)
 
 * * *

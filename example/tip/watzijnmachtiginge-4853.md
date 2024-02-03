@@ -27,6 +27,7 @@ Dit is het onderwerp van de kennissessie georganiseerd door TIP Werkgroep Kennis
   
   Dat bestuursorganen zelf ook moeten controleren of de machtiging valide is in bijvoorbeeld curatele register of BRP.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/oplossingmachtigen-193). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/oplossingmachtigen-193)
 
 - ### <a id="machtiginginjuridi-9948"></a> 📌 Machtiging in juridische context in elektronisch verkeer
@@ -38,6 +39,7 @@ Dit is het onderwerp van de kennissessie georganiseerd door TIP Werkgroep Kennis
   
   Randvoorwaardelijk aan dit elektronisch verkeer (incl. machtigen) is dat het op voldoende  betrouwbare  en  vertrouwelijke wijze geschiedt, gelet  op aard, inhoud en doel. Er moet voldoende  mate van zekerheid zijn dat het **bericht afkomstig** is van degene die als afzender staat vermeld en dat voldoende is gewaarborgd dat een **bericht** daadwerkelijk terecht komt bij degene aan wie het is gericht. Daarvoor is authenticatie van de burger vereist en verificatie van bestaan en omvang van de machtiging.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/machtiginginjuridi-9948). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/machtiginginjuridi-9948)
 
 - ### <a id="machtigeninhetkad-1952"></a> 📌 Machtigen in het kader van eHerkenning
@@ -45,6 +47,7 @@ Dit is het onderwerp van de kennissessie georganiseerd door TIP Werkgroep Kennis
   
   Om namens een bedrijf of organisatie te handelen moet de identiteit van de handelende persoon bekend zijn én de bevoegdheid om namens het bedrijf/organisatie in een bepaalde context te handelen. Die bevoegdheid is geregistreerd in een machtigingenregister. Er zijn procedures en eisen gesteld aan de registraties in het machtigingenregister zodat de juridische validiteit is geborgd. Het niveau van de machtiging is op het dienstniveau van de dienstverlener. Die diensten staan in een centrale catalogus. Zonder machtiging kan je eHerkenning niet gebruiken. Het stelsel bevat specificaties over de vorm van de machtiging om de interoperabiliteit tussen de leveranciers en dienstverleners te borgen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/machtigeninhetkad-1952). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/machtigeninhetkad-1952)
 
   #### Reacties

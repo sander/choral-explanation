@@ -11,6 +11,7 @@ Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de 
   
   Nog terugkomend op de meerwaarde van TIP en het delen van "authentieke" gegevens: daarmee sluit je fraude zo goed als uit; dat geeft dan ook ruimte om in uitvoering van regelingen garanties te geven dat de hulp via een regeling niet terug kan worden gevorderd. De focus ligt dan bij het controleren vooraf ipv achteraf. Betekent ook dat we de burger moeten/willen vertrouwen: dat is een politiek vraagstuk.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553)
 
   #### Reacties

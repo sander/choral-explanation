@@ -7,6 +7,7 @@ Het ziet er naar uit dat dienstverleners een PID moeten accepteren als identific
 - ### <a id="mogelijkerolvoorq-9971"></a> 📌 Mogelijke rol voor QTSP
   Tijdens de werksessie van 5 januari 2024 kwam deze vraag naar boven in de context van banken en strong customer authentication. Daar opperde ik dat vertrouwende partijen risicogebaseerd kunnen kiezen om gekwalificeerde vertrouwensdiensten in te zetten voor aanvullende controle, bijvoorbeeld door te vragen om uitgifte van een vers gekwalificeerd certificaat. Zie: [📄 Kan een bank SCA delegeren aan een QTSP?](kaneenbankscadel-5381.md)
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watmoetergeregeld-7715/posts/mogelijkerolvoorq-9971). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watmoetergeregeld-7715/posts/mogelijkerolvoorq-9971)
 
 * * *

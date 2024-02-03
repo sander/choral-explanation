@@ -13,6 +13,7 @@ Als belanghebbende in vertrouwd online zakendoen wil ik zien of een handelingsom
   
   De kwaliteit zouden we kunnen toetsen aan de hand van theorie over vertrouwensraamwerken ([📄 Hoe toets ik een vertrouwensraamwerk?](tiptoetsingskader-3432.md)).
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoetoetsikeenhan-831/posts/beginmeteenprogra-2384). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoetoetsikeenhan-831/posts/beginmeteenprogra-2384)
 
 - ### <a id="greenpaperenwhitep-3814"></a> 📌 Greenpaper en Whitepaper als eerste iteraties
@@ -22,6 +23,7 @@ Als belanghebbende in vertrouwd online zakendoen wil ik zien of een handelingsom
   
   Op basis van de Greenpaper en de eerste uitgewerkte basisfunctionaliteiten vanuit TIP Werkgroep Techniek is tot augustus 2022 gewerkt aan een iteratie [🌐 Whitepaper: ecosysteem voor gekwalificeerde informatie-uitwisseling versie 0.9](https://dedigicampus.sharepoint.com/sites/Missie3Overheidalssterkedatapartner/Gedeelde%20documenten/Forms/AllItems.aspx?ga=1\&id=%2Fsites%2FMissie3Overheidalssterkedatapartner%2FGedeelde%20documenten%2FGeneral%2FTIP%2F6%2E%20Werkgroep%20Kennis%2FDocumenten%2F20220805%5FWhitepaper%20%2D%20ecosysteem%20voor%20gekwalificeerde%20informatie%2Duitwisseling%20%28v0%2E9%29%2Epdf\&viewid=1b7d3a00%2De999%2D408c%2Da9fd%2Dcf05b40b7211\&parent=%2Fsites%2FMissie3Overheidalssterkedatapartner%2FGedeelde%20documenten%2FGeneral%2FTIP%2F6%2E%20Werkgroep%20Kennis%2FDocumenten) (informatieclassificatie Besloten). De prioriteit voor de werkgroep is verschoven, dus het stuk is nog niet uitgewerkt tot een versie om binnen TIP als 1.0 vast te stellen.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoetoetsikeenhan-831/posts/greenpaperenwhitep-3814). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoetoetsikeenhan-831/posts/greenpaperenwhitep-3814)
 
 ## Verwijzingen naar deze vraag

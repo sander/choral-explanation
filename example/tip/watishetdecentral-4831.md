@@ -7,6 +7,7 @@ Als TIP-partner wil ik weten **wat** het Decentralised Identity Interop Profile 
 - ### <a id="standaardvoorinter-108"></a> 📌 Standaard voor interoperabiliteit techniek attesteringen
   DIIP is een technische standaard voor interoperabiliteit van attesteringen volgens het W3C-model, met de bedoeling om future-proof naar eIDAS2 / ARF te implementeren.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watishetdecentral-4831/posts/standaardvoorinter-108). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetdecentral-4831/posts/standaardvoorinter-108)
 
 ## Verwijzingen naar deze vraag

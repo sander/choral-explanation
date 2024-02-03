@@ -21,6 +21,7 @@ Zie sheets op [🌐 keynote-wwelling-digitale-identiteit.pdf (](https://www.surf
   
   <br>
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267)
 
 ## Verwijzingen naar deze vraag

@@ -24,6 +24,7 @@ Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* 
   
   In eIDAS is de aansprakelijkheid voor de schade rond vertrouwensdienstverlening geregeld. Deze zal in de praktijk veel lager liggen dan de onterecht verplaatste €100M. Daarmee lijkt de beperking in aansprakelijkheid door QTSPs geen barrière.
 
+  
   > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
 
   #### Reacties
