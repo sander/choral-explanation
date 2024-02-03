@@ -241,9 +241,6 @@ def _replace_obsidian_links(markdown, index):
 def write_obsidian_md(question, dir_path, index):
     file_path = f"{dir_path}/{_obsidian_file_name(question['title'])}.md"
     with open(file_path, "w") as file:
-        file.write(f"---\nLicentie: CC BY 4.0\n")
-        file.write(f"Origineel: {question['url']}\n")
-        file.write("---\n")
         file.write(_replace_obsidian_links(question["description_md"], index))
         file.write("\n\n")
         if "author_name" in question:
@@ -269,3 +266,5 @@ def write_obsidian_md(question, dir_path, index):
             if (question['id'],) in props['outgoing']:
                 incoming[src] = props
         file.write("\n")
+        file.write(f"Licentie: CC BY 4.0. ")
+        file.write(f"Origineel: {question['url']}\n")
