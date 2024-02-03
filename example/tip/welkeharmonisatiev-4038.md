@@ -22,7 +22,7 @@ Als TIP-partner wil ik weten wat de toekomstige bewegingen zijn in harmonisatie 
       - levels of authentication
       - certification and protection profiles
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

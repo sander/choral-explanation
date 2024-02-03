@@ -4,7 +4,7 @@ Als bestuurder wil ik weten hoe TIP kan bijdragen aan de business-transitie die 
 > Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekantipbijdrage-2801)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

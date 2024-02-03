@@ -25,7 +25,7 @@ Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specif
           
       [🌐 @René Bonte](https://alkem.io/user/rene-bonte-9498) het klopt dat er intern een Engelstalige versie 1.2 bestaat die nog niet op deze website is gepubliceerd. De werkgroepen Techniek en Communicatie zijn in overleg over het publiceren van de volgende stukken.
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📄 Analyse van gerelateerde initiatieven](overzichtvanreleva-7668.md)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

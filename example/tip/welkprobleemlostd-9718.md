@@ -52,9 +52,8 @@ Als architect wil ik begrijpen **wat** het probleem is waar de European Digital 
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/paperoverbarrieres-2754). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkprobleemlostd-9718/posts/paperoverbarrieres-2754)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe kan de overheid wallets effectief reguleren? Promotieonderzoek](hoekandeoverheid-8045.md#promotieonderzoek-2880)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

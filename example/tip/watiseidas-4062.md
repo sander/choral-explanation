@@ -12,11 +12,9 @@ Als geïnteresserde wil ik weten __wat__ eIDAS is, zodat ik beter begrijp waar s
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel? Raamwerken en abstractieniveaus](hoekunnenweeffect-1138.md#raamwerkenenabstra-6127)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Wat zijn de juridische grenzen tussen Corporate Seal en Personal Qualified signature? Rechtsgevolg volgens eIDAS](juridischegrenzent-2374.md#rechtsgevolgvolgens-1804)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Greenpaper en Whitepaper als eerste iteraties](hoetoetsikeenhan-831.md#greenpaperenwhitep-3814)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

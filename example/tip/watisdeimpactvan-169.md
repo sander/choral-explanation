@@ -37,7 +37,7 @@ Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de 
           
       - tussentijdse toetsing op basis van gegevens die Toeslagen heeft (inkomen, adres) maar die altijd onvolledig is (denk aan inkomen van zzp-er)
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

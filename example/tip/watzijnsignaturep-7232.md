@@ -28,7 +28,7 @@ Het zetten van een handtekening (nat/digitaal) op een blanco stuk papier zegt ni
           
       Antwoord is nee (nog niet) en er is om dit goed te laten landen ook een Nederlandse signature policy nodig als bouwsteen om te komen tot een kader met minimale vereisen van digitaal ondertekenen en om burgers tegen misbruik te beschermen.  Het onderwerp is nog niet spannend genoeg om op NL niveau te agenderen en we doen er als TIP wel goed aan om zelf een start hierin te maken. En hiervoor bestaan al wel presentaties met de denklijn.
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Welke typen transacties zijn te ondertekenen? Documenten en serviceberichten](welketypentransact-1429.md#documentenenservic-8288)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

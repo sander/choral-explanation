@@ -14,7 +14,7 @@ Als TIP-partner wil ik weten met welke wallets ik rekening kan houden voor imple
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkewalletszijnb-9243/posts/digitalwalletanda-2218). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkewalletszijnb-9243/posts/digitalwalletanda-2218)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP? Kennissessie met DIIP](watvoorwallet-init-2068.md#kennissessiemetdii-5708)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

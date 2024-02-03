@@ -20,11 +20,9 @@ Als TIP-partner wil ik weten wat voor initiatieven er zijn voor de inzet van wal
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watvoorwallet-init-2068/posts/inventarisatieedi-p-8431). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorwallet-init-2068/posts/inventarisatieedi-p-8431)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe kan ik nu al toekomstvast aan de slag met attestaties? Implementeren van een interoperabiliteitsprofiel](hoekaniknualtoe-5296.md#implementerenvanee-1722)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📄 Analyse van gerelateerde initiatieven](overzichtvanreleva-7668.md)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

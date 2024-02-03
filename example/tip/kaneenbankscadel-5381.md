@@ -33,7 +33,7 @@ Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* 
           
       👍
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden? Mogelijke rol voor QTSP](watmoetergeregeld-7715.md#mogelijkerolvoorq-9971)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

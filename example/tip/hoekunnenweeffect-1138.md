@@ -38,11 +38,9 @@ Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprak
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel? Raamwerken en abstractieniveaus](hoekunnenweeffect-1138.md#raamwerkenenabstra-6127)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe toets ik een vertrouwensraamwerk? Onderzoek naar effectieve samenwerking](tiptoetsingskader-3432.md#onderzoeknaareffec-8525)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Begin met een Programma van Eisen](hoetoetsikeenhan-831.md#beginmeteenprogra-2384)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

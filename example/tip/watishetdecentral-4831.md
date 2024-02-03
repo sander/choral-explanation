@@ -10,9 +10,8 @@ Als TIP-partner wil ik weten **wat** het Decentralised Identity Interop Profile 
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watishetdecentral-4831/posts/standaardvoorinter-108). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetdecentral-4831/posts/standaardvoorinter-108)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP? Kennissessie met DIIP](watvoorwallet-init-2068.md#kennissessiemetdii-5708)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Hoe kan ik nu al toekomstvast aan de slag met attestaties? Implementeren van een interoperabiliteitsprofiel](hoekaniknualtoe-5296.md#implementerenvanee-1722)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -10,9 +10,8 @@ Als deelnemer van TIP wil ik weten wat Solid is, zodat ik beter begrijp hoe de a
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watissolid-6045/posts/doelstellingenverw-3842). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watissolid-6045/posts/doelstellingenverw-3842)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de Nederlandse Datakluis? Zie persbericht](watisdenederlands-7532.md#ziepersbericht-8988)
-  >Automatisch verzameld op basis van verwijzingen.
   - [📌 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP? Solid Community](watvoorinitiatieve-1713.md#solidcommunity-2317)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -34,7 +34,7 @@ De vraag speelt waar voor je een Corporate Seal (CS) kan gebruiken (en wat daarv
           
       [🌐 @Paul Staal](https://alkem.io/user/paul-staal-854) Komt dit overeen met jouw begrip op basis van je verkenningen afgelopen weken?
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -4,7 +4,7 @@ Als onderzoeker wil ik weten wat het verband is tussen het Architecture and Refe
 > Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoehangthetarchit-3668)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de link tussen het EUDI Framework en Verifiable Credentials? EUDI is een toepassing van o.a. Verifiable Credentials](watisdelinktusse-4064.md#eudiiseentoepassi-6449)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

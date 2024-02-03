@@ -56,7 +56,7 @@ Welke voorwaarden willen we hiervoor voorleggen?
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Begin met een Programma van Eisen](hoetoetsikeenhan-831.md#beginmeteenprogra-2384)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

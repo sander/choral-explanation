@@ -13,7 +13,7 @@ In een recent opinie-artikel verwijst de auteur naar een initiatief over dataklu
           
       Deze presentatie bij MyData Conference 2023 van 31 mei geeft meer duidelijkheid: https://www.datakluis.nl/wp-content/uploads/2023/06/MARTIJN-VAN-DAM-ARNO-OTTO-DUTCH-DATA-VAULT.pdf
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP? Solid Community](watvoorinitiatieve-1713.md#solidcommunity-2317)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

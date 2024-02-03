@@ -18,7 +18,7 @@ Als leverancier wil ik weten wat voor bedrijfsmodellen er mogelijk zijn voor die
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

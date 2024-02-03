@@ -24,7 +24,7 @@ Zie sheets op [🌐 keynote-wwelling-digitale-identiteit.pdf (](https://www.surf
   > Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267)
 
 - ## 📌 Context waarin dit relevant is
+  Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
-  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
