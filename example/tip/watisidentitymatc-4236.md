@@ -1,8 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is identity matching en discovery?
 Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity matching en discovery behelzen, zodat we hier een standaard op kunnen vaststellen. (Denk aan BSN, pseudoniemen en koppelcodes.)
+
 ***
- Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
+Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
 
 - ## <a id="scriptietudelft-196"></a> 📌 Scriptie TU Delft over identity matching in Europa op basis van het BRP
   Zie scriptie [🌐 *Dutch Identity Matching: The Devil’s in the Details*](https://repository.tudelft.nl/islandora/object/uuid%3A5d52babb-c6b0-4c96-8f93-8f3129ba448d) door Anton Welling de Arruda.
@@ -60,7 +61,7 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   De auteur concludeert dat de wallet-aanbiedersgerichte oplossingsrichting het meest wenselijk is verband met de behoefte aan privacy en controle voor burgers.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-08-30 17:28 UTC
           
@@ -83,7 +84,7 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   *   Zoals beschreven in [📌 Ontwerppatronen voor het koppelen van identiteiten](watisidentitymatc-4236.md#ontwerppatronenvoor-2306): personen halen een identiteitsverklaring op bij een QTSP (op basis van een centrale basisregistratie), om zich via een out-of-band verkregen koppelcode kenbaar te maken via infrastructuur voor berichtuitwisseling.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-08-31 09:03 UTC
           
@@ -119,10 +120,23 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   Binnen HDN Goed IDee is dan ook gekozen voor platform-beheerde connecties. Deze zijn we nu aan het beproeven.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
+<details><summary><code>Schrijf een antwoord</code></summary>
+
+1. [Log in op Alkemio](https://identity.alkem.io/login).
+2. Als je nog niet lid bent van de TIP-space, [vraag en wacht op toegang](https://alkem.io/tip/dashboard).
+3. Ga naar de [vraag in Alkemio](https://alkem.io/tip/collaboration/watisidentitymatc-4236).
+4. Klik op (+).
+5. Neem kennis van de placeholder-tekst en verwijder deze.
+6. Verstuur je antwoord.
+
+Je antwoord verschijnt direct op Alkemio. Na synchronisatie verschijnt het ook hier.
+
+</details>
+
 * * *
-<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

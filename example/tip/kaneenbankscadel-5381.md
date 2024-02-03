@@ -1,8 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Kan een bank SCA delegeren aan een QTSP?
 Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* (SCA) kan delegeren aan een gekwalificeerd vertrouwensdienstverlener onder de eIDAS, met het oog op hergebruik van wallets en eventuele verplichtingen uit de herziening van eIDAS.
+
 ***
- Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
+Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
 
 - ## <a id="toepassingvangekwa-1586"></a> 📌 Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid
   [🌐 IANAL](https://en.wikipedia.org/wiki/IANAL) maar bij deze wat ik begrijp op basis van een aantal gesprekken.
@@ -25,7 +26,7 @@ Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* 
   In eIDAS is de aansprakelijkheid voor de schade rond vertrouwensdienstverlening geregeld. Deze zal in de praktijk veel lager liggen dan de onterecht verplaatste €100M. Daarmee lijkt de beperking in aansprakelijkheid door QTSPs geen barrière.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-01-10 18:56 UTC
           
@@ -36,5 +37,18 @@ Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat moet er geregeld worden rond de aansprakelijkheid zodra een PID geaccepteerd moet worden? Mogelijke rol voor QTSP](watmoetergeregeld-7715.md#mogelijkerolvoorq-9971)
+<details><summary><code>Schrijf een antwoord</code></summary>
+
+1. [Log in op Alkemio](https://identity.alkem.io/login).
+2. Als je nog niet lid bent van de TIP-space, [vraag en wacht op toegang](https://alkem.io/tip/dashboard).
+3. Ga naar de [vraag in Alkemio](https://alkem.io/tip/collaboration/kaneenbankscadel-5381).
+4. Klik op (+).
+5. Neem kennis van de placeholder-tekst en verwijder deze.
+6. Verstuur je antwoord.
+
+Je antwoord verschijnt direct op Alkemio. Na synchronisatie verschijnt het ook hier.
+
+</details>
+
 * * *
-<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

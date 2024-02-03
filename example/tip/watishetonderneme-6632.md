@@ -3,8 +3,9 @@
 In februari 2024 wordt er een kennissessie georganiseerd rond deze kennisvragen:
 
 Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeenkomsten zijn er met TIP en wat zijn de beelden hoe deze stelsels elkaar kunnen versterken? De samenvatting volgt na de sessie.
+
 ***
- Vraag oorspronkelijk gesteld door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632)
+Vraag oorspronkelijk gesteld door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632)
 
 - ## <a id="notulenkennissessie-2133"></a> 📌 Notulen kennissessie Company Passport
   Company Passport is gestart 5-tal partijen: ABN AMRO, KvK, Belastingdienst, KNB en DBC.
@@ -84,7 +85,7 @@ Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeen
   Deze bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133)
+  Antwoord oorspronkelijk geschreven door [🏔️ Victor den Bak](https://alkem.io/user/victor-denbak-5595).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133)
 
 - ## <a id="ondernemingspaspoort-5652"></a> 📌 Ondernemingspaspoort
   Het ondernemingspaspoort is een afsprakenstelsels over de inhoud van certificaten. Hierin staan de normen waaraan de inhoud en vorm aan moet voldoen. En hiermee worden certificaten bedoeld in de zin van schriftelijke verklaringen... Denk bijvoorbeeld aan een ISO certificaat of een ESG (duurzaamheid) certificaat. Op dit moment is het gebruikelijk dat deze certificaten/verklaringen via papier gedeeld worden tussen bijvoorbeeld bedrijf en bank. De nieuwe eIDAS verordening biedt randvoorwaarden en mogelijkheden om deze verklaringen te standaardiseren en over meerdere domeinen digitaal te delen.
@@ -98,7 +99,20 @@ Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeen
   Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652)
+
+<details><summary><code>Schrijf een antwoord</code></summary>
+
+1. [Log in op Alkemio](https://identity.alkem.io/login).
+2. Als je nog niet lid bent van de TIP-space, [vraag en wacht op toegang](https://alkem.io/tip/dashboard).
+3. Ga naar de [vraag in Alkemio](https://alkem.io/tip/collaboration/watishetonderneme-6632).
+4. Klik op (+).
+5. Neem kennis van de placeholder-tekst en verwijder deze.
+6. Verstuur je antwoord.
+
+Je antwoord verschijnt direct op Alkemio. Na synchronisatie verschijnt het ook hier.
+
+</details>
 
 * * *
-<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

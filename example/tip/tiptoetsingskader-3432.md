@@ -3,8 +3,9 @@
 Hoe krijgt een framework de TIP 'stamp-of-approval'?
 
 Welke voorwaarden willen we hiervoor voorleggen?
+
 ***
- Vraag oorspronkelijk gesteld door [🏔️ Louise van der Peet](https://alkem.io/user/louise-vanderpeet-3887). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432)
+Vraag oorspronkelijk gesteld door [🏔️ Louise van der Peet](https://alkem.io/user/louise-vanderpeet-3887). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432)
 
 - ## <a id="voorbeeldenuitregi-1725"></a> 📌 Voorbeelden uit Regie op Gegevens
   Paul wees me op [🌐 Juridisch kader voor Regie op gegevens](https://rog.pleio.nl/files/view/c3d604c2-e461-4836-b7fe-ebe8936fa5ff/1584609034juridisch%20kader%20voor%20regie%20op%20gegevens%20%5Bprdf-3226194%5D.pdf) als interessant voorbeeld. Hierin staat een analyse van bestaande wet- en regelgeving, en “juridische inspiratie” voor een afsprakenstelsel.
@@ -12,13 +13,13 @@ Welke voorwaarden willen we hiervoor voorleggen?
   In het [🌐 Beleidsdossier Regie op Gegevens](https://rog.pleio.nl/groups/view/60cfba39-0fb2-4020-a0e1-3ce97a95c8ae/kennisbank-regie-op-gegevens/wiki/view/cf1bbb50-a953-49c0-901f-5f7b3ce82ce8/onderzoeken-en-publicaties) staan meer stukken, zoals een beschrijving van het vertrouwensraamwerk en een referentiearchitectuur.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuitregi-1725). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuitregi-1725)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuitregi-1725)
 
 - ## <a id="onderzoeknaareffec-8525"></a> 📌 Onderzoek naar effectieve samenwerking
   Gerelateerd aan deze vraag hebben we eerder behandeld: [📄 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](hoekunnenweeffect-1138.md)
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/onderzoeknaareffec-8525). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/onderzoeknaareffec-8525)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/onderzoeknaareffec-8525)
 
 - ## <a id="categorieenintoets-6290"></a> 📌 categorieën in toetsing
   De volgende categorieën kunnen gebruikt worden voor toesting van frameworks. Binnen deze categorieën kunnen voorwaarden worden gesteld.
@@ -35,7 +36,7 @@ Welke voorwaarden willen we hiervoor voorleggen?
   *   Kennisdelen
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Louise van der Peet](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/categorieenintoets-6290). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/categorieenintoets-6290)
+  Antwoord oorspronkelijk geschreven door [🏔️ Louise van der Peet](https://alkem.io/user/louise-vanderpeet-3887).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/categorieenintoets-6290)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-01-19 10:15 UTC
           
@@ -54,10 +55,23 @@ Welke voorwaarden willen we hiervoor voorleggen?
   De EU is kampioen in interoperabiliteit. Dus daar kunnen we voorbeelden uit gebruiken. Paul wees me bijvoorbeeld op [🌐 COM(2017)134](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2017%3A134%3AFIN), de implementatiestrategie van het European Interoperability Framework. Daar zie je ook hoe bijvoorbeeld een PvE in een overkoepelende strategie kan dienen als “instrument that support interoperability” ([📄 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP?](hoetoetsikeenhan-831.md)).
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/tiptoetsingskader-3432/posts/voorbeeldenuiteu-i-7828)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:
   - [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Begin met een Programma van Eisen](hoetoetsikeenhan-831.md#beginmeteenprogra-2384)
+<details><summary><code>Schrijf een antwoord</code></summary>
+
+1. [Log in op Alkemio](https://identity.alkem.io/login).
+2. Als je nog niet lid bent van de TIP-space, [vraag en wacht op toegang](https://alkem.io/tip/dashboard).
+3. Ga naar de [vraag in Alkemio](https://alkem.io/tip/collaboration/tiptoetsingskader-3432).
+4. Klik op (+).
+5. Neem kennis van de placeholder-tekst en verwijder deze.
+6. Verstuur je antwoord.
+
+Je antwoord verschijnt direct op Alkemio. Na synchronisatie verschijnt het ook hier.
+
+</details>
+
 * * *
-<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

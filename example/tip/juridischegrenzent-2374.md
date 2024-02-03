@@ -1,8 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat zijn de juridische grenzen tussen Corporate Seal en Personal Qualified signature?
 De vraag speelt waar voor je een Corporate Seal (CS) kan gebruiken (en wat daarvan de juridische reikwijdte is) en de Personal Qualified Signature (PQS). Bedrijven geven voor het tekenen van contracten het mandaat aan een individu. Maar wat kan je nog tekenen met een CS en wat moet je tekenen met een PQS? Een welk rol spelen Signature Policies hierbij?
+
 ***
- Vraag oorspronkelijk gesteld door [🏔️ Paul Staal](https://alkem.io/user/paul-staal-854). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/juridischegrenzent-2374)
+Vraag oorspronkelijk gesteld door [🏔️ Paul Staal](https://alkem.io/user/paul-staal-854). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/juridischegrenzent-2374)
 
 - ## <a id="rechtsgevolgvolgens-1804"></a> 📌 Rechtsgevolg volgens eIDAS
   [🌐 IANAL](https://en.wikipedia.org/wiki/IANAL), maar dit is mijn huidige inzicht. Om te beginnen, zie wat in eIDAS ([📄 Wat is eIDAS?](watiseidas-4062.md)) over rechtsgevolg staat beschreven:
@@ -29,7 +30,7 @@ De vraag speelt waar voor je een Corporate Seal (CS) kan gebruiken (en wat daarv
   De bepalingen van zo’n aanvullend contract kunnen in een signature policy zijn vastgelegd. Door de CS dan toe te passen in combinatie met deze signature policy is duidelijk vastgelegd welke waarde betrokken partijen toekennen aan verzegelde documenten of berichten.
 
   ***
-  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/juridischegrenzent-2374/posts/rechtsgevolgvolgens-1804). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/juridischegrenzent-2374/posts/rechtsgevolgvolgens-1804)
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912).  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/juridischegrenzent-2374/posts/rechtsgevolgvolgens-1804)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-03-06 14:05 UTC
           
@@ -37,5 +38,18 @@ De vraag speelt waar voor je een Corporate Seal (CS) kan gebruiken (en wat daarv
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:
   - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
+<details><summary><code>Schrijf een antwoord</code></summary>
+
+1. [Log in op Alkemio](https://identity.alkem.io/login).
+2. Als je nog niet lid bent van de TIP-space, [vraag en wacht op toegang](https://alkem.io/tip/dashboard).
+3. Ga naar de [vraag in Alkemio](https://alkem.io/tip/collaboration/juridischegrenzent-2374).
+4. Klik op (+).
+5. Neem kennis van de placeholder-tekst en verwijder deze.
+6. Verstuur je antwoord.
+
+Je antwoord verschijnt direct op Alkemio. Na synchronisatie verschijnt het ook hier.
+
+</details>
+
 * * *
-<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
+<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
