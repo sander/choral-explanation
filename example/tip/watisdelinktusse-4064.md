@@ -1,11 +1,14 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Wat is de link tussen het EUDI Framework en Verifiable Credentials?](https://alkem.io/tip/collaboration/watisdelinktusse-4064)
->Als onderzoeker wil ik weten in hoeverre het EUDI Framework uit de concept-wijziging op eIDAS aansluit bij de ontwikkeling van W3C Verifiable Credentials en bijbehorende linked data-aanpak, zoals ook voorgesteld in het [VN-project op product conformity certificates](https://uncefact.unece.org/display/uncefactpublicreview/Public+Review%3A+White+Paper+Digital+Product+Conformity++Certificate+Exchange)..
+# 📄 Wat is de link tussen het EUDI Framework en Verifiable Credentials?
+>Als onderzoeker wil ik weten in hoeverre het EUDI Framework uit de concept-wijziging op eIDAS aansluit bij de ontwikkeling van W3C Verifiable Credentials en bijbehorende linked data-aanpak, zoals ook voorgesteld in het ..
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdelinktusse-4064)
+
 ## Antwoorden
-- ### <a id="eudiiseentoepassi-6449"></a> [🏔️ EUDI is een toepassing van o.a. Verifiable Credentials](https://alkem.io/tip/collaboration/watisdelinktusse-4064/posts/eudiiseentoepassi-6449)
-  Deze liggen in elkaars verlengde. In het ARF ([Wat is het Architecture and Reference Framework voor de EUDI Wallet?](https://alkem.io/tip/contribute/callouts/hoehangthetarchit-3668)) zijn twee standaarden voor attestaties geselecteerd:
+- ### <a id="eudiiseentoepassi-6449"></a> 📌 EUDI is een toepassing van o.a. Verifiable Credentials
+  Deze liggen in elkaars verlengde. In het ARF ([📄 Wat is het Architecture and Reference Framework voor de EUDI Wallet?](hoehangthetarchit-3668.md)) zijn twee standaarden voor attestaties geselecteerd:
   
   *   Verifiable Credentials (VC) vanuit W3C
   *   mdoc vanuit ISO (mDL, mID)
@@ -16,6 +19,8 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdelinktusse-4064/posts/eudiiseentoepassi-6449)
+
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdelinktusse-4064/posts/eudiiseentoepassi-6449)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

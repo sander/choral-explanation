@@ -1,15 +1,18 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Van wie zijn "mijn" gegevens?](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751)
+# 📄 Van wie zijn "mijn" gegevens?
 >De overheid heeft registraties over mijzelf opgeslagen in de diverse basisregisters. Ik kan hier beperkt gebruik van maken want ik kan het meestal wel inzien maar niet downloaden met een digitaal waarmerk. De vraag is van wie die data eigenlijk is zodra het getoond of te downloaden is (al dan niet met een zegel). Deze vraag is van belang welke overheid wel of niet heeft bij het delen van die data.
 >
 >*Bijdragen zijn gelicenseerd onder CC BY 4.0.*
 
 Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751)
+
 ## Antwoorden
-- ### <a id="bronhouderiseigena-9774"></a> [🏔️ Bronhouder is eigenaar en je rechten om die data voor je eigen doel te gebruiken zijn beperkt.](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751/posts/bronhouderiseigena-9774)
+- ### <a id="bronhouderiseigena-9774"></a> 📌 Bronhouder is eigenaar en je rechten om die data voor je eigen doel te gebruiken zijn beperkt.
   In 2018 is in opdracht van programma Regie op Gegevens onderzoek gedaan door Pels Rijckers naar de juridische grondslagen om te experimenteren rond het delen van gegevens.  Dat onderzoek staat hier:
   
-  [Regie op gegevens en de AVG (pleio.nl)](https://rog.pleio.nl/file/download/4a47f535-5015-478b-b6ff-d425e5b8f6b8/1554209072regie%20op%20gegevens%20en%20de%20avg_web.pdf)
+  
   
   Met betrekking tot persoonsgegevens: gaat het om officele documenten zoals identiteitsgegevens of gewaarmerkte uittreksels, dan wordt veelal tot uitgangspunt genomen dat de bron rechthebbende is op die gegevens. (p 7 van de notitie).
   
@@ -25,6 +28,8 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751/posts/bronhouderiseigena-9774)
+
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/vanwiezijnmijn-8751/posts/bronhouderiseigena-9774)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

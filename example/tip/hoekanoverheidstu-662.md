@@ -1,8 +1,11 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Hoe kan overheid sturen op een zich ontwikkelende markt?](https://alkem.io/tip/collaboration/hoekanoverheidstu-662)
+# 📄 Hoe kan overheid sturen op een zich ontwikkelende markt?
 >Als medewerker van een beleidsdepartement of uitvoeringsorganisatie wil ik weten hoe mijn organisatie kan sturen op een zich ontwikkelende markt van vertrouwensdiensten.
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekanoverheidstu-662)
+
 ## Gerelateerd
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *

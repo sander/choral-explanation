@@ -1,8 +1,11 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Hoe kan TIP bijdragen aan de noodzakelijke business-transitie?](https://alkem.io/tip/collaboration/hoekantipbijdrage-2801)
+# 📄 Hoe kan TIP bijdragen aan de noodzakelijke business-transitie?
 >Als bestuurder wil ik weten hoe TIP kan bijdragen aan de business-transitie die nodig is voor vertrouwd online zakendoen.
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekantipbijdrage-2801)
+
 ## Gerelateerd
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *

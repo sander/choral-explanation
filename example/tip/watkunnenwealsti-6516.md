@@ -1,13 +1,16 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Wat kunnen we als TIP leren van OpenPeppol als raamwerk om gegevens uit te wisselen?](https://alkem.io/tip/collaboration/watkunnenwealsti-6516)
+# 📄 Wat kunnen we als TIP leren van OpenPeppol als raamwerk om gegevens uit te wisselen?
 >Om te komen tot een multi corner model voor uitwisseling is er een structuur nodig om elkaar te vinden en om met elkaar te verbinden. OpenPeppol heeft binnen en buiten Europa een dergelijke structuur voor het ontvangen en versturen van orders en facturen. Wat kunnen we daarvan leren?
 
 Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516)
+
 ## Antwoorden
-- ### <a id="besteenhoopov-1407"></a> [🏔️ Best een hoop.... over Peppol](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
-  OpenPeppol is een eDelivery implementatie die gebruik maakt van de standaard AS4. Inmiddels zijn er vele landen aangesloten op dit netwerk; ook buiten Europa. Veel informatie is te vinden op hun site: [The Future Is Open - OpenPeppol. ](https://peppol.org/)Het huidige gebruik richt zich op het versturen en ontvangen van orders en facturen maar Peppol is zo opgezet dat er ook andere gegevenstromen mogelijk zijn. Daar wordt inmiddels ook mee geëxperimenteerd. Ook is Peppol geschikt om informatie uit te wisselen tussen natuurlijke personen als er maar een goede identifier beschikbaar is (zoals IBAN). Peppol is geschikt om naast factuurstromen de uitwisseling van medische informatie tussen zorgaanbieder en afnemer te organiseren: het bestaat nu alleen nog niet.
+- ### <a id="besteenhoopov-1407"></a> 📌 Best een hoop.... over Peppol
+  OpenPeppol is een eDelivery implementatie die gebruik maakt van de standaard AS4. Inmiddels zijn er vele landen aangesloten op dit netwerk; ook buiten Europa. Veel informatie is te vinden op hun site: Het huidige gebruik richt zich op het versturen en ontvangen van orders en facturen maar Peppol is zo opgezet dat er ook andere gegevenstromen mogelijk zijn. Daar wordt inmiddels ook mee geëxperimenteerd. Ook is Peppol geschikt om informatie uit te wisselen tussen natuurlijke personen als er maar een goede identifier beschikbaar is (zoals IBAN). Peppol is geschikt om naast factuurstromen de uitwisseling van medische informatie tussen zorgaanbieder en afnemer te organiseren: het bestaat nu alleen nog niet.
   
-  Binnen Nederland zijn er diverse serviceproviders actief die onder toezicht staan van de Nederlandse Peppolautoriteit (zie [Peppol: dé internationale standaard voor digitaal zakendoen (](https://peppolautoriteit.nl/?gclid=EAIaIQobChMI7Mqv0M_XggMVi_J3Ch04BwJVEAAYASAAEgJxDfD_BwE)[peppolautoriteit.nl](http://peppolautoriteit.nl)[). ](https://peppolautoriteit.nl/?gclid=EAIaIQobChMI7Mqv0M_XggMVi_J3Ch04BwJVEAAYASAAEgJxDfD_BwE)De gegevensuitwisseling vindt plaats in een four cornermodel: bedrijven kiezen zelf een (of meerdere) serviceprovider(s) om gegevens te sturen en ontvangen / de serviceproviders zetten hun klanten in een groot telefoonboek (SML en SMP)
+  Binnen Nederland zijn er diverse serviceproviders actief die onder toezicht staan van de Nederlandse Peppolautoriteit (zie De gegevensuitwisseling vindt plaats in een four cornermodel: bedrijven kiezen zelf een (of meerdere) serviceprovider(s) om gegevens te sturen en ontvangen / de serviceproviders zetten hun klanten in een groot telefoonboek (SML en SMP)
   
   SMP staat voor Service Metadata Publisher. Een Peppol SMP is een partij die een register bijhoudt van de adresinformatie van elke ontvanger op het Peppol netwerk, welk Access Point zij gebruiken en welke berichten zij kunnen ontvangen. SML staat voor Service Metadata Locator. De Peppol SML bevat de identificatienummers van alle ontvangers aanwezig op het netwerk, alsook in welke SMP de detailinformatie kan gevonden worden. Deze bronnen zijn alleen te raadplegen en aan te passen via een erkende serviceprovider.
   
@@ -15,6 +18,8 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
+
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenwealsti-6516/posts/besteenhoopov-1407)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -1,8 +1,11 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Hoe kunnen we komen tot massaal gebruik van TIP?](https://alkem.io/tip/collaboration/hoekunnenwekomen-4535)
+# 📄 Hoe kunnen we komen tot massaal gebruik van TIP?
 >Als bestuurder wil ik weten waar knelpunten en mogelijke oplossingen liggen om te komen tot massaal gebruik van TIP.
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenwekomen-4535)
+
 ## Gerelateerd
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *

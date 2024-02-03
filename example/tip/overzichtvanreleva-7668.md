@@ -1,19 +1,22 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
-# [🏔️ Analyse van gerelateerde initiatieven](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
->Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze [kennisbank](https://alkem.io/tip/knowledge-base). Bijvoorbeeld:
+# 📄 Analyse van gerelateerde initiatieven
+>Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze . Bijvoorbeeld:
 >
->*   [Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](https://alkem.io/tip/collaboration/watvoorwallet-init-2068)
->*   [Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP?](https://alkem.io/tip/collaboration/watvoorinitiatieve-1713)
+>*   [📄 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](watvoorwallet-init-2068.md)
+>*   [📄 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP?](watvoorinitiatieve-1713.md)
 >
 >Daarnaast ontwikkelen we met TIP Werkgroep Kennis een gestructureerd overzicht langs een aantal vragen. Deze vragenlijst herzien we continu op basis van voortschrijdend inzicht. We nodigen je graag uit om het formulier in te vullen voor relevante initiatieven.
 >
->We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [Wat zijn de basisfunctionaliteiten van TIP?](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
+>We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [📄 Wat zijn de basisfunctionaliteiten van TIP?](watzijndebasisfun-743.md)
 >
->De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
+>De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is . Om bij te dragen heb je een account bij Alkemio nodig: zie .
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
+
+[`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
+
 ## Antwoorden
-- ### <a id="diip-7901"></a> [🏔️ DIIP](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+- ### <a id="diip-7901"></a> 📌 DIIP
   ## Beschrijving
   
   ### Wat is het initiatief?
@@ -55,7 +58,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
 
-- ### <a id="potentialuc5-2150"></a> [🏔️ Potential](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+
+- ### <a id="potentialuc5-2150"></a> 📌 Potential
   ## Beschrijving
   
   ### Wat is het initiatief?
@@ -93,7 +98,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
 
-- ### <a id="peppol-6470"></a> [🏔️ Peppol](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+
+- ### <a id="peppol-6470"></a> 📌 Peppol
   ## Beschrijving
   
   ### Wat is het initiatief?
@@ -143,7 +150,9 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   ***
   Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
 
-- ### <a id="nutszorg-9315"></a> [🏔️ Nuts (Zorg)](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+
+- ### <a id="nutszorg-9315"></a> 📌 Nuts (Zorg)
   ## Beschrijving
   
   ### Wat is het initiatief?
@@ -186,6 +195,8 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+
+  [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
 
   #### Reacties
     - ##### [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
