@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?
 Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprakenstelsels zijn en hoe we die inzichten toepassen om effectief publiek-privaat samen te werken aan veilig online zakendoen.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138)
+> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138)
 
-## Antwoorden
-- ### <a id="aantekeningenkennis-5456"></a> 📌 Aantekeningen kennissessie 21 april
+- ## <a id="aantekeningenkennis-5456"></a> 📌 Aantekeningen kennissessie 21 april
   **Vraagstelling:**\
   *Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprakenstelsels zijn en hoe we die inzichten toepassen om effectief publiek-privaat samen te werken aan veilig online zakendoen*
   
@@ -23,9 +22,9 @@ Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprak
   De slides bij deze kennissessie kunnen we op verzoek delen.
 
   
-  > Oorspronkelijk geantwoord door [🏔️ Sjoerd Stamhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
+  > Antwoord oorspronkelijk geschreven door [🏔️ Sjoerd Stamhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
 
-- ### <a id="raamwerkenenabstra-6127"></a> 📌 Raamwerken en abstractieniveaus
+- ## <a id="raamwerkenenabstra-6127"></a> 📌 Raamwerken en abstractieniveaus
   Paul wees me op de publicatie [🌐 Distinguishing between Theory, Theoretical Framework, and Conceptual Framework: A Systematic Review of Lessons from the Field](https://www.sciedupress.com/journal/index.php/ijhe/article/view/14566/8962) (Kivunja, 2018). Deze schetst een probleem dat ik ook zie terugkeren in gesprekken over vertrouwensraamwerken: op welk abstractieniveau spreken we?
   
   Als ik probeer de concepten van Kivunja te mappen, hebben we:
@@ -36,11 +35,14 @@ Als deelnemer in TIP wil ik begrijpen wat de recente ontwikkelingen rond afsprak
   *   Conceptueel raamwerk: het vertrouwensraamwerk inclusief bijbehorende processen en afspraken ([📄 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel?](hoekunnenweeffect-1138.md)).
 
   
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
+  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/raamwerkenenabstra-6127)
 
-## Verwijzingen naar deze vraag
-- [📌 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel? Raamwerken en abstractieniveaus](hoekunnenweeffect-1138.md#raamwerkenenabstra-6127)
-- [📌 Hoe toets ik een vertrouwensraamwerk? Onderzoek naar effectieve samenwerking](tiptoetsingskader-3432.md#onderzoeknaareffec-8525)
-- [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Begin met een Programma van Eisen](hoetoetsikeenhan-831.md#beginmeteenprogra-2384)
+- ## 📌 Context waarin dit relevant is
+  - [📌 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel? Raamwerken en abstractieniveaus](hoekunnenweeffect-1138.md#raamwerkenenabstra-6127)
+  >Automatisch verzameld op basis van verwijzingen.
+  - [📌 Hoe toets ik een vertrouwensraamwerk? Onderzoek naar effectieve samenwerking](tiptoetsingskader-3432.md#onderzoeknaareffec-8525)
+  >Automatisch verzameld op basis van verwijzingen.
+  - [📌 Hoe toets ik een handelingsomgeving tegen de afspraken van TIP? Begin met een Programma van Eisen](hoetoetsikeenhan-831.md#beginmeteenprogra-2384)
+  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

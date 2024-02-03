@@ -3,10 +3,9 @@
 In februari 2024 wordt er een kennissessie georganiseerd rond deze kennisvragen:
 
 Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeenkomsten zijn er met TIP en wat zijn de beelden hoe deze stelsels elkaar kunnen versterken? De samenvatting volgt na de sessie.
-> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632)
+> Vraag oorspronkelijk gesteld door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632)
 
-## Antwoorden
-- ### <a id="notulenkennissessie-2133"></a> 📌 Notulen kennissessie Company Passport
+- ## <a id="notulenkennissessie-2133"></a> 📌 Notulen kennissessie Company Passport
   Company Passport is gestart 5-tal partijen: ABN AMRO, KvK, Belastingdienst, KNB en DBC.
   
   De DBC is hierbij vooral de facilitator.
@@ -84,9 +83,9 @@ Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeen
   Deze bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).
 
   
-  > Oorspronkelijk geantwoord door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133)
+  > Antwoord oorspronkelijk geschreven door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133)
 
-- ### <a id="ondernemingspaspoort-5652"></a> 📌 Ondernemingspaspoort
+- ## <a id="ondernemingspaspoort-5652"></a> 📌 Ondernemingspaspoort
   Het ondernemingspaspoort is een afsprakenstelsels over de inhoud van certificaten. Hierin staan de normen waaraan de inhoud en vorm aan moet voldoen. En hiermee worden certificaten bedoeld in de zin van schriftelijke verklaringen... Denk bijvoorbeeld aan een ISO certificaat of een ESG (duurzaamheid) certificaat. Op dit moment is het gebruikelijk dat deze certificaten/verklaringen via papier gedeeld worden tussen bijvoorbeeld bedrijf en bank. De nieuwe eIDAS verordening biedt randvoorwaarden en mogelijkheden om deze verklaringen te standaardiseren en over meerdere domeinen digitaal te delen.
   
   Het ondernemingspaspoort is NIET de invulling van de wallet voor legal entities. Het is een afsprakenstelsel voor de toekomstige vulling van deze wallet: de wallet van legal entities moet straks ook gevuld gaan worden met attestaties en verklaringen en op dat vlak moeten er afspraken gemaakt worden over de inhoud, vorm, echtheidskenmerken om uiteindelijk met een oplossing te komen die interoperabel is en die afnemers en gebruikers vertrouwen.
@@ -98,7 +97,7 @@ Wat is het ondernemingspaspoort precies en wat zijn de ambities?  Welke overeen
   Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
   
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652)
+  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

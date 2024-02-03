@@ -1,10 +1,9 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat zijn de basisfunctionaliteiten van TIP?
 Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specificeert.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
+> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
 
-## Antwoorden
-- ### <a id="publicatieoverbasi-3454"></a> 📌 Publicatie over basisfunctionaliteiten
+- ## <a id="publicatieoverbasi-3454"></a> 📌 Publicatie over basisfunctionaliteiten
   Zie de [🌐 publicatie **Basisconcepten en -functionaliteiten TIP**](https://www.trustedinformationpartners.nl/publicaties/). Inmiddels gebruiken we voor de basisfunctionaliteiten intern Engelse namen:
   
   *   Exchanging data
@@ -20,13 +19,13 @@ Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specif
   *   Making payments
 
   
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
+  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
 
-  #### Reacties
-    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 14:59 UTC
+    - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-01-10 14:59 UTC
           
       [🌐 @René Bonte](https://alkem.io/user/rene-bonte-9498) het klopt dat er intern een Engelstalige versie 1.2 bestaat die nog niet op deze website is gepubliceerd. De werkgroepen Techniek en Communicatie zijn in overleg over het publiceren van de volgende stukken.
-## Verwijzingen naar deze vraag
-- [📄 Analyse van gerelateerde initiatieven](overzichtvanreleva-7668.md)
+- ## 📌 Context waarin dit relevant is
+  - [📄 Analyse van gerelateerde initiatieven](overzichtvanreleva-7668.md)
+  >Automatisch verzameld op basis van verwijzingen.
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
