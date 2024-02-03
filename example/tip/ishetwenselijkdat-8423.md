@@ -3,7 +3,8 @@
 In een recent opinie-artikel [🌐 Al je data in een kluis, kan de individuele gebruiker dat aan?](https://publicspaces.net/2022/11/10/al-je-data-in-een-kluis-kan-de-individuele-gebruiker-dat-aan/) stelt de auteur dat deze vorm van zelfbeschikking weinig zinvol is.
 
 Volgens het TIP-gedachtengoed: is dit wenselijk?
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423)
 
 - ## <a id="beschouwtransacties-3432"></a> 📌 Beschouw transacties in plaats van gegevens
   De auteur stelt:
@@ -18,8 +19,8 @@ Volgens het TIP-gedachtengoed: is dit wenselijk?
   
   Om beter recht te doen aan de behoefte aan [🌐 Regie op Gegevens](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/), heeft het meer zin om te spreken van transacties, gefaciliteerd door dienstverleners onder onafhankelijk toezicht.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-02-07 16:22 UTC
           
@@ -32,8 +33,8 @@ Volgens het TIP-gedachtengoed: is dit wenselijk?
 - ## <a id="consumentkijktalle-5081"></a> 📌 Consument kijkt alleen naar doel
   Er is nog wel wat opvoeding nodig, voor een consument snapt dat-ie eerst moet nadenken over delen van gegevens en of dit in verhouding  is met het doel waarom er gegevens gedeeld worden
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Jan Schrama](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Jan Schrama](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/consumentkijktalle-5081)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

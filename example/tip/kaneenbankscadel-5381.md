@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Kan een bank SCA delegeren aan een QTSP?
 Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* (SCA) kan delegeren aan een gekwalificeerd vertrouwensdienstverlener onder de eIDAS, met het oog op hergebruik van wallets en eventuele verplichtingen uit de herziening van eIDAS.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381)
 
 - ## <a id="toepassingvangekwa-1586"></a> 📌 Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid
   [🌐 IANAL](https://en.wikipedia.org/wiki/IANAL) maar bij deze wat ik begrijp op basis van een aantal gesprekken.
@@ -23,8 +24,8 @@ Als bank wil ik weten in hoeverre ik eisen aan *strong customer authentication* 
   
   In eIDAS is de aansprakelijkheid voor de schade rond vertrouwensdienstverlening geregeld. Deze zal in de praktijk veel lager liggen dan de onterecht verplaatste €100M. Daarmee lijkt de beperking in aansprakelijkheid door QTSPs geen barrière.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/kaneenbankscadel-5381/posts/toepassingvangekwa-1586)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-01-10 18:56 UTC
           

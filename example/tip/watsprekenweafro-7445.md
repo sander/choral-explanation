@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat spreken we af rond intellectueel eigendom van kennisbijdragen?
 Als kennishouder in TIP wil ik afspreken hoe met intellectueel eigendom van kennis om te gaan, zodat ik laagdrempelig kennis kan delen.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watsprekenweafro-7445)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watsprekenweafro-7445)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

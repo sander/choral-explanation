@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is het Architecture and Reference Framework voor de EUDI Wallet?
 Als onderzoeker wil ik weten wat het verband is tussen het Architecture and Reference Framework en het afsprakenstelsel dat we met TIP vormen, zodat ik ontwikkelingen aan beide kanten beter kan plaatsen.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoehangthetarchit-3668)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoehangthetarchit-3668)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

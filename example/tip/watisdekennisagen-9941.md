@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is de kennisagenda van TIP?
 Als TIP-partner wil ik weten __wat__ de kennisagenda van TIP is, zodat ik weet waar ik aan kan bijdragen.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941)
 
 - ## <a id="kennisagenda-5711"></a> 📌 Kennisagenda
   De Werkgroep Kennis houdt een top 5 aan stories bij en maakt hiermee de voor TIP belangrijkste kennis beschikbaar.
@@ -51,8 +52,8 @@ Als TIP-partner wil ik weten __wat__ de kennisagenda van TIP is, zodat ik weet w
   
   *   [📄 Welke kennis-infrastructuur wordt voor TIP ingericht?](welkekennis-infrast-7437.md)
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdekennisagen-9941/posts/kennisagenda-5711)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

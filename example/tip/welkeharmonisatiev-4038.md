@@ -1,15 +1,16 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke harmonisatie van frameworks voor eID en vertrouwensdiensten komt eraan?
 Als TIP-partner wil ik weten wat de toekomstige bewegingen zijn in harmonisatie van eIDAS-raamwerken voor identificatie en vertrouwensdiensten.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038)
 
 - ## <a id="202310111400etsie-1922"></a> 📌 20231011 1400 ETSI ESI Activities - 9th ENISA Trust Services and eID Forum - 11 OCT 2023, Vienna.pdf
   In deze presentatie legt Santino Foti, ETSI TC ESI Vice Chair uit wat ETSI aan het doen is qua standaarden voor eIDAS2
   
   (Kan bij mij opgevraagd worden, [🌐 Alkem.io](http://Alkem.io) ondersteunt geen attachments)
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ René Bonte](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ René Bonte](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeharmonisatiev-4038/posts/202310111400etsie-1922)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-02-02 11:05 UTC
           

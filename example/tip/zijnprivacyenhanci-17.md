@@ -7,13 +7,14 @@ Meer info bij:
 [🌐 Virtual Data Lake | Roseman Labs](https://rosemanlabs.com/products/virtual_data_lake.html)
 
 Wat betekenen deze technologie voor TIP / vertrouwensdiensten?
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17)
 
 - ## <a id="hetzelfdeparadigma-3135"></a> 📌 Hetzelfde paradigma, mogelijk een enabler
   PET zijn technologieën voor risicobeperking bij informatieuitwisseling en -verwerking. De risico’s moeten uiteindelijk beoordeeld en gedragen worden door personen en organisaties in die informatieketens. Deze moeten bijvoorbeeld beoordelen welke technologie een risico voldoende mitigeren, en ingrijpen als de technologie tekort blijkt te schieten. Ook bij inzet van PET ligt voor de hand om de functie voor het (complexe) beheer van deze risico’s te delegeren aan een vertrouwensdienstverlener.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/zijnprivacyenhanci-17/posts/hetzelfdeparadigma-3135)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

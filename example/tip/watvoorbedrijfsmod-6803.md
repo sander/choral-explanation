@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat voor bedrijfsmodellen maakt de EUDI-wallet mogelijk rond handtekeningen en identiteits- en toegangsbeheer?
 Als leverancier wil ik weten wat voor bedrijfsmodellen er mogelijk zijn voor diensten rond gekwalificeerde handtekeningen en/of IAM, zodat ik deze in de praktijk kan valideren.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803)
 
 - ## <a id="wewetenweldedoel-6141"></a> 📌 We weten wel de doelen van een marktmodel maar nog niet hoe dat in de praktijk gaat werken...
   Over marktmodellen voor de walllet (wel behoefte aan onderlinge concurrentie waardoor burgers keuze vrijheid en kwalitatief goede dienstverlening krijgen maar hoe.. dat staat er niet in: Zie p. 15 [🌐 CERRE\_Digital-Identity\_Issue-Paper\_FINAL-2.pdf](https://cerre.eu/wp-content/uploads/2022/10/CERRE_Digital-Identity_Issue-Paper_FINAL-2.pdf)
@@ -14,8 +15,8 @@ Als leverancier wil ik weten wat voor bedrijfsmodellen er mogelijk zijn voor die
   
   Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorbedrijfsmod-6803/posts/wewetenweldedoel-6141)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

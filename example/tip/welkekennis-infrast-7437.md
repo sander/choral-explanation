@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke kennis-infrastructuur wordt voor TIP ingericht?
 Als TIP-partner wil ik weten welke kennis-infrastructuur Werkgroep Kennis wil leveren, zodat ik relevante input en feedback kan geven.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkekennis-infrast-7437)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkekennis-infrast-7437)
 
 - ## <a id="roadmapopkennis-in-7750"></a> 📌 Roadmap op kennis-infrastructuur
   De Werkgroep Kennis houdt user stories bij en vult hiermee de voor TIP belangrijkste randvoorwaarden voor kennisbeheer in.
@@ -13,8 +14,8 @@ Als TIP-partner wil ik weten welke kennis-infrastructuur Werkgroep Kennis wil le
   *   [📄 Wat is de kennisagenda van TIP?](watisdekennisagen-9941.md)
   *   [📄 Wat spreken we af rond intellectueel eigendom van kennisbijdragen?](watsprekenweafro-7445.md)
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkekennis-infrast-7437/posts/roadmapopkennis-in-7750)
 
     - #### 💬 Reactie van [🏔️ Neil  Andrew Smyth](https://alkem.io/user/neil-smyth-admin) op 2023-02-22 10:33 UTC
           

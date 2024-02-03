@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat zijn de basisfunctionaliteiten van TIP?
 Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specificeert.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
 
 - ## <a id="publicatieoverbasi-3454"></a> 📌 Publicatie over basisfunctionaliteiten
   Zie de [🌐 publicatie **Basisconcepten en -functionaliteiten TIP**](https://www.trustedinformationpartners.nl/publicaties/). Inmiddels gebruiken we voor de basisfunctionaliteiten intern Engelse namen:
@@ -18,8 +19,8 @@ Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specif
   *   Consulting service chain specifications
   *   Making payments
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2024-01-10 14:59 UTC
           

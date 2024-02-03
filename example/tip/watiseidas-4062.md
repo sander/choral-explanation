@@ -1,15 +1,16 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is eIDAS?
 Als geïnteresserde wil ik weten __wat__ eIDAS is, zodat ik beter begrijp waar sommige afspraken rond TIP vandaan komen.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062)
 
 - ## <a id="europeseverordening-4270"></a> 📌 Europese verordening
   De Verordening (EU) Nr. 910/2014 “eIDAS” (electronic identities and trust services) bevat definities, afspraken, en eisen aan infrastructuur voor vertrouwen in online zakendoen.
   
   De oorspronkelijke tekst kun je lezen [🌐 op EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG). 
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke rol speelt de overheid in TIP?
 Als deelnemer in TIP wil ik begrijpen **wat** de rol is die de overheid speelt in TIP, zodat ik hiermee rekening kan houden in mijn aanpak.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008)
 
 - ## <a id="rolleninhetalgeme-1409"></a> 📌 Rollen in het algemeen volgens de werkgroep
   We hebben deze vraag besproken met de werkgroep Kennis op 24 maart 2023. We zien een aantal rollen voor de overheid in een afsprakenstelsel als TIP:
@@ -16,8 +17,8 @@ Als deelnemer in TIP wil ik begrijpen **wat** de rol is die de overheid speelt i
   
   *   financierend, denk aan het bieden van een platform voor publiek-private samenwerking
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-09-01 09:47 UTC
           

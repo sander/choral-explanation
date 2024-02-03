@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is identity matching en discovery?
 Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity matching en discovery behelzen, zodat we hier een standaard op kunnen vaststellen. (Denk aan BSN, pseudoniemen en koppelcodes.)
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236)
 
 - ## <a id="scriptietudelft-196"></a> 📌 Scriptie TU Delft over identity matching in Europa op basis van het BRP
   Zie scriptie [🌐 *Dutch Identity Matching: The Devil’s in the Details*](https://repository.tudelft.nl/islandora/object/uuid%3A5d52babb-c6b0-4c96-8f93-8f3129ba448d) door Anton Welling de Arruda.
@@ -58,8 +59,8 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   
   De auteur concludeert dat de wallet-aanbiedersgerichte oplossingsrichting het meest wenselijk is verband met de behoefte aan privacy en controle voor burgers.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/scriptietudelft-196)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-08-30 17:28 UTC
           
@@ -81,8 +82,8 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   *   Zoals beschreven in [📌 Scriptie TU Delft over identity matching in Europa op basis van het BRP](watisidentitymatc-4236.md#scriptietudelft-196): personen halen een identiteitsverklaring op bij een centrale basisregistratie, om zich via een website-authenticatie kenbaar te maken.
   *   Zoals beschreven in [📌 Ontwerppatronen voor het koppelen van identiteiten](watisidentitymatc-4236.md#ontwerppatronenvoor-2306): personen halen een identiteitsverklaring op bij een QTSP (op basis van een centrale basisregistratie), om zich via een out-of-band verkregen koppelcode kenbaar te maken via infrastructuur voor berichtuitwisseling.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/discoveryvandigita-8878)
 
     - #### 💬 Reactie van [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) op 2023-08-31 09:03 UTC
           
@@ -117,8 +118,8 @@ Als lid werkgroep Techniek wil ik begrijpen __wat__ de domeinen van identity mat
   
   Binnen HDN Goed IDee is dan ook gekozen voor platform-beheerde connecties. Deze zijn we nu aan het beproeven.
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisidentitymatc-4236/posts/ontwerppatronenvoor-2306)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

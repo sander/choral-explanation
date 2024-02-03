@@ -3,7 +3,8 @@
 Als zakelijk expert of manager binnen een TIP betrokken organisatie wil ik weten __hoe__ ik binnen mijn organisatie begin met de implementatie van afspraken en principes van TIP.
 
 Kan ik ergens een starterspakket vinden?
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286)
 
 - ## <a id="dehandtekeningvan-1835"></a> 📌 De Handtekening van de Toekomst
   Op de website van TIP kun je sinds 1 mei guidance vinden op basis van ervaringen met implementatie bij ING Real Estate Finance:
@@ -12,8 +13,8 @@ Kan ik ergens een starterspakket vinden?
   
   <br>
 
-  
-  > Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
+  ***
+  Antwoord oorspronkelijk geschreven door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeimplementeerik-4286/posts/dehandtekeningvan-1835)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

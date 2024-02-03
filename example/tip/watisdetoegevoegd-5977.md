@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is de toegevoegde waarde van vertrouwensdiensten voor de digitale overheid?
 Als medewerker van een beleidsdepartement of uitvoeringsorganisatie wil ik weten waar kan worden geleund op gekwalificeerde certificaten en andere voorzieningen uit gekwalificeerde vertrouwensdiensten.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdetoegevoegd-5977)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdetoegevoegd-5977)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:

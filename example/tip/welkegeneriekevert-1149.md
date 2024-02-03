@@ -1,7 +1,8 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke generieke vertrouwensdiensten zijn er nodig voor online zakendoen?
 Als uitvoeringsorganisatie wil ik weten welke generieke vertrouwensdiensten er nodig zijn voor uitwisseling met burgers en bedrijven, zowel via portalen als system-to-system, zodat ik hierop een marktanalyse kan laten uitvoeren.
-> Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkegeneriekevert-1149)
+***
+ Vraag oorspronkelijk gesteld door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkegeneriekevert-1149)
 
 - ## 📌 Context waarin dit relevant is
   Automatisch verzameld op basis van verwijzingen:
