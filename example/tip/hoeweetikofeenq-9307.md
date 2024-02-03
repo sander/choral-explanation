@@ -10,7 +10,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 - ### <a id="uniekidentificeren-2659"></a> 📌 Uniek identificeren: noodzakelijk.
   Een PID is uitgegeven vanuit de overheid. De overheid doet hierbij de identificatie. Een TSP die een QES uitgeeft doet hetzelfde. Een PID en een QES bevatten beide attributen over de persoon en daarbij is het logisch dat als ik zowel een PID en een QES heb dat die te matchen zijn. Daarmee zou je in theorie met je PID een gekwalificeerd certificaat kunnen krijgen. De voorwaarde is dat je personen uniek kan identificeren en hoe dat straks wordt opgelost heb ik niet scherp . Wet digitale overheid biedt mogelijkheden om BSN /afgeleiden zoals polymorf ID en pseudoniem te kunnen gebruiken, die oplosrichting ligt voor de hand.
   
-  Zie ook onderzoek Dutch Identity matching : 
+  Zie ook onderzoek Dutch Identity matching : [🌐 Studentenonderzoek - Digicampus](https://digicampus.tech/studentenonderzoek/)
   
   Risico op verkeerd gebruik blijft wel bestaan denk aan een kwaadwillende de telefoon kan gebruiken van iemand anders; zijn/haar PID gebruikt om rekeningen te openen en andere dingen te doen.
 

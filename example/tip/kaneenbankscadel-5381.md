@@ -8,7 +8,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
 ## Antwoorden
 - ### <a id="toepassingvangekwa-1586"></a> 📌 Toepassing van gekwalificeerde certificaten en beperking van aansprakelijkheid
-   maar bij deze wat ik begrijp op basis van een aantal gesprekken.
+  [🌐 IANAL](https://en.wikipedia.org/wiki/IANAL) maar bij deze wat ik begrijp op basis van een aantal gesprekken.
   
   Banken zijn onder PSD2 Artikel 97(1) verplicht om SCA uit te voeren bij toegang, initiatie betaaltransacties, en andere riskante online acties. In Artikel 4(3) definieert PSD2 het concept SCA als multi-factor authenticatie van de gebruiker.
   

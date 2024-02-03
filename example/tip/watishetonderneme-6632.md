@@ -84,7 +84,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
   
   **Bron**: Notulen door Victor den Bak n.a.v. kennissessie Mark Hanhart op 2024-02-02.
   
-  Deze bijdrage wordt gelicenseerd onder .
+  Deze bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/notulenkennissessie-2133)
@@ -96,11 +96,11 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
   
   Het ondernemingspaspoort is NIET de invulling van de wallet voor legal entities. Het is een afsprakenstelsel voor de toekomstige vulling van deze wallet: de wallet van legal entities moet straks ook gevuld gaan worden met attestaties en verklaringen en op dat vlak moeten er afspraken gemaakt worden over de inhoud, vorm, echtheidskenmerken om uiteindelijk met een oplossing te komen die interoperabel is en die afnemers en gebruikers vertrouwen.
   
-  Zie presentatie: dutchblockchaincoalition.org)
+  Zie presentatie: [🌐 Ondernemingspaspoort - DBC (](https://dutchblockchaincoalition.org/use-cases/ondernemingspaspoort)dutchblockchaincoalition.org)
   
   <br>
   
-  Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder , tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder .
+  Deel je antwoord op de vraag. Je bijdrage wordt gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl), tenzij je expliciet aangeeft deze in het publiek domein vrij te geven onder [🌐 CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.nl).
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watishetonderneme-6632/posts/ondernemingspaspoort-5652)

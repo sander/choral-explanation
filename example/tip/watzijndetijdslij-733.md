@@ -8,7 +8,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
 ## Antwoorden
 - ### <a id="permailgedeeld-1040"></a> 📌 Per mail gedeeld
-  Zie mail *[Wg Kennis] Verwachte tijdslijnen id-wallet 2022-12-02*. Deze verwijst door naar een document op de SharePoint van TIP:  . 
+  Zie mail *[Wg Kennis] Verwachte tijdslijnen id-wallet 2022-12-02*. Deze verwijst door naar een document op de SharePoint van TIP: [🌐 Verwachte tijdslijnen id-wallet](https://dedigicampus.sharepoint.com/:w:/r/sites/Missie3Overheidalssterkedatapartner/Gedeelde%20documenten/General/TIP/6.%20Werkgroep%20Kennis/Verwachte%20tijdslijnen%20id-wallet.docx?web=1) . 
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndetijdslij-733/posts/permailgedeeld-1040)

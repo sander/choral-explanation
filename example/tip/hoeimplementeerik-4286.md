@@ -12,7 +12,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 - ### <a id="dehandtekeningvan-1835"></a> 📌 De Handtekening van de Toekomst
   Op de website van TIP kun je sinds 1 mei guidance vinden op basis van ervaringen met implementatie bij ING Real Estate Finance:
   
-  
+  [🌐 De Handtekening van de Toekomst: de implementatie van de Gekwalificeerde Digitale Handtekening voor veilige en betrouwbare transacties bij ING REF](https://www.trustedinformationpartners.nl/de-handtekening-van-de-toekomst-de-implementatie-van-de-gekwalificeerde-digitale-handtekening-voor-veilige-en-betrouwbare-transacties-bij-ing-ref/)
   
   <br>
 

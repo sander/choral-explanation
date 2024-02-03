@@ -12,7 +12,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
 - ### <a id="bronhouderiseigena-9774"></a> 📌 Bronhouder is eigenaar en je rechten om die data voor je eigen doel te gebruiken zijn beperkt.
   In 2018 is in opdracht van programma Regie op Gegevens onderzoek gedaan door Pels Rijckers naar de juridische grondslagen om te experimenteren rond het delen van gegevens.  Dat onderzoek staat hier:
   
-  
+  [🌐 Regie op gegevens en de AVG (pleio.nl)](https://rog.pleio.nl/file/download/4a47f535-5015-478b-b6ff-d425e5b8f6b8/1554209072regie%20op%20gegevens%20en%20de%20avg_web.pdf)
   
   Met betrekking tot persoonsgegevens: gaat het om officele documenten zoals identiteitsgegevens of gewaarmerkte uittreksels, dan wordt veelal tot uitgangspunt genomen dat de bron rechthebbende is op die gegevens. (p 7 van de notitie).
   

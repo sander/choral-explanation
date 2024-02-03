@@ -20,7 +20,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watvoorwallet-init-2068/posts/kennissessiemetdii-5708)
 
 - ### <a id="inventarisatieedi-p-8431"></a> 📌 Inventarisatie EDI-programma
-  Zie .
+  Zie [🌐 EDI op Pleio: Nederlandse en internationale initiatieven](https://edi.pleio.nl/groups/view/b3d6dbc0-959c-4c07-9048-14fb9f736bcd/programma-edi-algemeen/wiki/view/b6756790-7975-4f1f-a8a4-fb3ed62a4856/nederlandse-en-europese-initiatieven).
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watvoorwallet-init-2068/posts/inventarisatieedi-p-8431)

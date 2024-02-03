@@ -24,7 +24,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
   #### Reacties
     - ##### [🏔️ Neil  Andrew Smyth](https://alkem.io/user/neil-smyth-admin) 2023-02-22 10:33 UTC
-      > dit is misschien iets voor jouw?
+      >[🌐 @Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) dit is misschien iets voor jouw?
     - ##### [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829) 2023-02-22 10:34 UTC
       >Jazeker :)
 ## Gerelateerd

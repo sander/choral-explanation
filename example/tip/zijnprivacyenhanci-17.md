@@ -2,9 +2,9 @@
 # 📄 Zijn privacy enhancing technologies een ander paradigma dan toepassing van vertrouwensdiensten?
 >Meer info bij:
 >
+>[🌐 Privacy enhancing technologies | TNO](https://www.tno.nl/nl/digitaal/digitale-innovatie/data-sharing/privacy-enhancing-technologies/?gclid=CjwKCAjw69moBhBgEiwAUFCx2ArEvafj8ZISJz4ajsF-Uf7HmIU-td1lmmD_GTitOlbZo0w477_kaxoCEVIQAvD_BwE)
 >
->
->
+>[🌐 Virtual Data Lake | Roseman Labs](https://rosemanlabs.com/products/virtual_data_lake.html)
 >
 >Wat betekenen deze technologie voor TIP / vertrouwensdiensten?
 

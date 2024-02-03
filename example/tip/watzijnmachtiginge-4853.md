@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat zijn machtigingen en wat voor oplossing bieden DigiD en eHerkenning?
->Als deelnemer in TIP wil ik begrijpen wat machtigen zijn en op wat voor manier stelsels zoals  en  hiermee omgaan. En we die inzichten kunnen toepassen aan veilig online zakendoen.
+>Als deelnemer in TIP wil ik begrijpen wat machtigen zijn en op wat voor manier stelsels zoals [🌐 DigiD](https://machtigen.digid.nl/) en [🌐 eHerkenning](https://www.eherkenning.nl/nl/eherkenning-gebruiken/machtigen) hiermee omgaan. En we die inzichten kunnen toepassen aan veilig online zakendoen.
 >
 >Dit is het onderwerp van de kennissessie georganiseerd door TIP Werkgroep Kennis op 28 juni 2023.
 
@@ -10,7 +10,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
 ## Antwoorden
 - ### <a id="oplossingmachtigen-193"></a> 📌 Oplossing machtigen Digid
-  Zie: 
+  Zie: [🌐 Wat is DigiD Machtigen? | DigiD Machtigen](https://machtigen.digid.nl/machtigen)
   
   **DigiD-Machtigen bevat:**
   
@@ -50,7 +50,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijnmachtiginge-4853/posts/machtiginginjuridi-9948)
 
 - ### <a id="machtigeninhetkad-1952"></a> 📌 Machtigen in het kader van eHerkenning
-  Zie 
+  Zie [🌐 eHerkenning | Machtigen](https://www.eherkenning.nl/nl/eherkenning-gebruiken/machtigen#:~:text=Elke%20persoon%20die%20eHerkenning%20gebruikt,bedrijf%20of%20organisatie%20mag%20inloggen.)
   
   Om namens een bedrijf of organisatie te handelen moet de identiteit van de handelende persoon bekend zijn én de bevoegdheid om namens het bedrijf/organisatie in een bepaalde context te handelen. Die bevoegdheid is geregistreerd in een machtigingenregister. Er zijn procedures en eisen gesteld aan de registraties in het machtigingenregister zodat de juridische validiteit is geborgd. Het niveau van de machtiging is op het dienstniveau van de dienstverlener. Die diensten staan in een centrale catalogus. Zonder machtiging kan je eHerkenning niet gebruiken. Het stelsel bevat specificaties over de vorm van de machtiging om de interoperabiliteit tussen de leveranciers en dienstverleners te borgen.
 

@@ -31,7 +31,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekunnenweeffect-1138/posts/aantekeningenkennis-5456)
 
 - ### <a id="raamwerkenenabstra-6127"></a> 📌 Raamwerken en abstractieniveaus
-  Paul wees me op de publicatie  (Kivunja, 2018). Deze schetst een probleem dat ik ook zie terugkeren in gesprekken over vertrouwensraamwerken: op welk abstractieniveau spreken we?
+  Paul wees me op de publicatie [🌐 Distinguishing between Theory, Theoretical Framework, and Conceptual Framework: A Systematic Review of Lessons from the Field](https://www.sciedupress.com/journal/index.php/ijhe/article/view/14566/8962) (Kivunja, 2018). Deze schetst een probleem dat ik ook zie terugkeren in gesprekken over vertrouwensraamwerken: op welk abstractieniveau spreken we?
   
   Als ik probeer de concepten van Kivunja te mappen, hebben we:
   

@@ -13,7 +13,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   Momenteel zijn er op dit vlak allerlei bewegingen. Voor ons direct relevant:
   
   *   Ontwikkeling European Digital Identity Framework voor wallets (“eIDAS 2.0”)
-  *   Ontwikkeling EDI in Nederland (zie: )
+  *   Ontwikkeling EDI in Nederland (zie: [🌐 Stuurgroep EDI](https://edi.pleio.nl/cms/view/066e8e5e-e98f-4b4d-b336-28649576715a/stuurgroep-edi))
   
   Gerelateerd:
   

@@ -13,7 +13,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   *   authenticity
   *   non-repudiation
   
-  Bron: 
+  Bron: [🌐 PKIo CPS v5.1 § 1.4.1 Permitted Certificate Usage](https://cps.pkioverheid.nl/pkioverheid-cps-unified-v5.1.html#141-permitted-certificate-usage)
   
   Het non-repudiation certificaat is een gekwalificeerd certificaat onder eIDAS.
   
@@ -28,11 +28,11 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
   #### Reacties
     - ##### [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499) 2024-01-15 13:09 UTC
-      > :  kan je de laatste zinnen nog wat toelichten?  Die zijn voor mij wat te cryptisch.
+      >[🌐 @Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) :  kan je de laatste zinnen nog wat toelichten?  Die zijn voor mij wat te cryptisch.
 - ### <a id="documentenenservic-8288"></a> 📌 Documenten en serviceberichten
   Je kunt onderscheid maken tussen het ondertekenen van **documenten** (rapportages, contracten, aangiftes, brieven) en van **serviceberichten** (verzoeken, opdrachten, antwoorden).
   
-  In beide gevallen gaat het om “Claims about information” zoals beschreven in de paper .
+  In beide gevallen gaat het om “Claims about information” zoals beschreven in de paper [🌐 When Willeke can get rid of paperwork](https://repository.tudelft.nl/islandora/object/uuid%3A4c2005ea-9cfd-420f-80fb-e8714be0bdd5).
   
   Bij documenten is het formele standpunt ten opzichte van de informatie van belang. Deze kan ook lang na een service-interactie worden geraadpleegd. Denk aan langlopende contracten en verklaringen uit authentieke bronnen.
   

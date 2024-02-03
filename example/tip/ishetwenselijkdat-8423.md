@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Is het wenselijk dat consumenten bepalen welke gegevens zij delen met wie?
->In een recent opinie-artikel  stelt de auteur dat deze vorm van zelfbeschikking weinig zinvol is.
+>In een recent opinie-artikel [🌐 Al je data in een kluis, kan de individuele gebruiker dat aan?](https://publicspaces.net/2022/11/10/al-je-data-in-een-kluis-kan-de-individuele-gebruiker-dat-aan/) stelt de auteur dat deze vorm van zelfbeschikking weinig zinvol is.
 >
 >Volgens het TIP-gedachtengoed: is dit wenselijk?
 
@@ -20,7 +20,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
   
   
   
-  Om beter recht te doen aan de behoefte aan , heeft het meer zin om te spreken van transacties, gefaciliteerd door dienstverleners onder onafhankelijk toezicht.
+  Om beter recht te doen aan de behoefte aan [🌐 Regie op Gegevens](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/), heeft het meer zin om te spreken van transacties, gefaciliteerd door dienstverleners onder onafhankelijk toezicht.
 
   ***
   Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/ishetwenselijkdat-8423/posts/beschouwtransacties-3432)

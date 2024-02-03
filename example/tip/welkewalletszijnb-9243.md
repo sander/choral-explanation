@@ -10,7 +10,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 - ### <a id="digitalwalletanda-2218"></a> 📌 Digital Wallet and Agent Overviews van Open Wallet Foundation
   Op initiatief van TNO houdt de Open Wallet Foundation een overzicht bij:
   
-  
+  [🌐 Digital Wallet and Agent Overviews Special Interest Group](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
   
   Hierin ontbreken momenteel nog wallets van QTSPs, en is niet duidelijk welke al geschikt zijn voor de basisfuncties van TIP. Deelnemers kunnen voorstellen voor wijzigingen doen om dit toe te voegen.
 

@@ -4,7 +4,7 @@
 >
 >Is het wel verantwoord om een burger zoveel autonomie te geven? Wat voor zorgplicht heeft de overheid? En hoe kan iedereen mee doen?
 >
->Zie sheets op 
+>Zie sheets op [🌐 keynote-wwelling-digitale-identiteit.pdf (](https://www.surf.nl/files/2022-10/keynote-wwelling-digitale-identiteit.pdf)[🌐 surf.nl](http://surf.nl)[🌐 )](https://www.surf.nl/files/2022-10/keynote-wwelling-digitale-identiteit.pdf)
 
 Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
 
@@ -12,13 +12,13 @@ Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-
 
 ## Antwoorden
 - ### <a id="modelvoorethische-3267"></a> 📌 Model voor ethische waarde afwegingen die we wellicht kunnen gebruiken...
-  Vanuit gemeente Utrecht / Dataschool Universiteit is een model ontwikkeld om te komen tot het inzicht welke waarden afwegingen rond data uitwisseling. 
+  Vanuit gemeente Utrecht / Dataschool Universiteit is een model ontwikkeld om te komen tot het inzicht welke waarden afwegingen rond data uitwisseling. [🌐 De Ethische Data Assistent (DEDA) | Data School | De Ethische Data Assistent (DEDA)](https://deda.dataschool.nl/)
   
   Verwacht zelf dat TIP hier ook aanknopingspunten ziet en kan gebruiken om de waarde-afwegingen inzichtelijk en bespreekbaar te maken.
   
-  Binnen Europa is er een etisch impactmodel ontwikkeld zie 
+  Binnen Europa is er een etisch impactmodel ontwikkeld zie [🌐 SATORI (](https://satoriproject.eu/)[🌐 satoriproject.eu](http://satoriproject.eu)[🌐 )](https://satoriproject.eu/)
   
-  En verder biedt ECP een methode om het gesprek rond ethiek te organiseren. Zie 
+  En verder biedt ECP een methode om het gesprek rond ethiek te organiseren. Zie [🌐 Home - Begeleidingsethiek](https://begeleidingsethiek.nl/)
   
   <br>
   

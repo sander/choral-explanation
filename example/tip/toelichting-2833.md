@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Toelichting
->Momenteel gebruiken wij Alkemio alleen voor de . Neem contact op met  voor vragen.
+>Momenteel gebruiken wij Alkemio alleen voor de [🌐 Kennisbank](https://alkem.io/tip/knowledge-base). Neem contact op met [🌐 Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) voor vragen.
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 

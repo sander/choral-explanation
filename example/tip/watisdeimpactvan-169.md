@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is de impact van Persoonlijke Regelingen Assistent op TIP?
->Zie: 
+>Zie: [🌐 Persoonlijke Regelingen Assistent Persoonlijke Regelingen Assistent - Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/dienstverlening-aan-burgers-en-ondernemers/persoonlijke-regelingen-assistent/)
 >
 >Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de Dutch Blockchain Coalition (DBC) samen met het ministerie van BZK, verschillende partners als TNO, het ELSA Lab Schulden en Armoede, de Belastingdienst, de KVK en de Provincie Friesland aan een betere digitale dienstverlening.
 

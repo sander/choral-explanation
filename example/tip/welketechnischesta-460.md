@@ -8,7 +8,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
 ## Antwoorden
 - ### <a id="evaluatieforumstan-6562"></a> 📌 Evaluatie Forum Standaardisatie
-  Voor evaluatie van  bij Forum Standaardisatie zijn TIP-partners gevraagd om een interview. Daarin kwam onder andere naar voren dat voor digitale handtekeningen en vertrouwensdiensten het  van ETSI van belang is.
+  Voor evaluatie van [🌐 Ades Baseline Profiles](https://www.forumstandaardisatie.nl/open-standaarden/ades-baseline-profiles) bij Forum Standaardisatie zijn TIP-partners gevraagd om een interview. Daarin kwam onder andere naar voren dat voor digitale handtekeningen en vertrouwensdiensten het [🌐 Electronic Signatures and Infrastructures-raamwerk](https://www.etsi.org/deliver/etsi_tr/119000_119099/119000/01.03.01_60/tr_119000v010301p.pdf) van ETSI van belang is.
   
   Naar verwachting wordt de besproken input binnenkort gedeeld op de website van Forum Standaardisatie.
 

@@ -8,7 +8,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
 ## Antwoorden
 - ### <a id="publicatieoverbasi-3454"></a> 📌 Publicatie over basisfunctionaliteiten
-  Zie de . Inmiddels gebruiken we voor de basisfunctionaliteiten intern Engelse namen:
+  Zie de [🌐 publicatie **Basisconcepten en -functionaliteiten TIP**](https://www.trustedinformationpartners.nl/publicaties/). Inmiddels gebruiken we voor de basisfunctionaliteiten intern Engelse namen:
   
   *   Exchanging data
   *   Signing data
@@ -29,7 +29,7 @@ Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/san
 
   #### Reacties
     - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 14:59 UTC
-      > het klopt dat er intern een Engelstalige versie 1.2 bestaat die nog niet op deze website is gepubliceerd. De werkgroepen Techniek en Communicatie zijn in overleg over het publiceren van de volgende stukken.
+      >[🌐 @René Bonte](https://alkem.io/user/rene-bonte-9498) het klopt dat er intern een Engelstalige versie 1.2 bestaat die nog niet op deze website is gepubliceerd. De werkgroepen Techniek en Communicatie zijn in overleg over het publiceren van de volgende stukken.
 ## Gerelateerd
 - [📄 Analyse van gerelateerde initiatieven](overzichtvanreleva-7668.md)
 * * *

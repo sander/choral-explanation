@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Analyse van gerelateerde initiatieven
->Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze . Bijvoorbeeld:
+>Er zijn verschillende initiatieven op wallets, kluisjes en uitwisseling. Deze inventariseren we langs vraag/antwoord in onze [🌐 kennisbank](https://alkem.io/tip/knowledge-base). Bijvoorbeeld:
 >
 >*   [📄 Wat voor wallet-initiatieven zijn er in Nederland en wat is de impact op TIP?](watvoorwallet-init-2068.md)
 >*   [📄 Wat voor initiatieven zijn er voor de inzet van datakluizen in Nederland en wat is de impact op TIP?](watvoorinitiatieve-1713.md)
@@ -9,7 +9,7 @@
 >
 >We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [📄 Wat zijn de basisfunctionaliteiten van TIP?](watzijndebasisfun-743.md)
 >
->De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is . Om bij te dragen heb je een account bij Alkemio nodig: zie .
+>De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [🌐 Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [🌐 Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 

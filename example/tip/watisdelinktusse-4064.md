@@ -1,6 +1,6 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is de link tussen het EUDI Framework en Verifiable Credentials?
->Als onderzoeker wil ik weten in hoeverre het EUDI Framework uit de concept-wijziging op eIDAS aansluit bij de ontwikkeling van W3C Verifiable Credentials en bijbehorende linked data-aanpak, zoals ook voorgesteld in het ..
+>Als onderzoeker wil ik weten in hoeverre het EUDI Framework uit de concept-wijziging op eIDAS aansluit bij de ontwikkeling van W3C Verifiable Credentials en bijbehorende linked data-aanpak, zoals ook voorgesteld in het [🌐 VN-project op product conformity certificates](https://uncefact.unece.org/display/uncefactpublicreview/Public+Review%3A+White+Paper+Digital+Product+Conformity++Certificate+Exchange)..
 
 Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
 

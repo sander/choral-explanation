@@ -8,11 +8,11 @@ Oorspronkelijk gevraagd door [🏔️ Paul Staal](https://alkem.io/user/paul-sta
 
 ## Antwoorden
 - ### <a id="rechtsgevolgvolgens-1804"></a> 📌 Rechtsgevolg volgens eIDAS
-  , maar dit is mijn huidige inzicht. Om te beginnen, zie wat in eIDAS ([📄 Wat is eIDAS?](watiseidas-4062.md)) over rechtsgevolg staat beschreven:
+  [🌐 IANAL](https://en.wikipedia.org/wiki/IANAL), maar dit is mijn huidige inzicht. Om te beginnen, zie wat in eIDAS ([📄 Wat is eIDAS?](watiseidas-4062.md)) over rechtsgevolg staat beschreven:
   > 
   > Een gekwalificeerde elektronische handtekening heeft hetzelfde rechtsgevolg als een handgeschreven handtekening.
   > 
-  > 
+  > [🌐 Artikel 25: Rechtsgevolgen van elektronische handtekeningen](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32014R0910&from=EN#d1e2372-73-1)
   
   
   en:
@@ -20,7 +20,7 @@ Oorspronkelijk gevraagd door [🏔️ Paul Staal](https://alkem.io/user/paul-sta
   
   > Voor een gekwalificeerd elektronisch zegel geldt het vermoeden van integriteit van de gegevens en van juistheid van de oorsprong van de gegevens waaraan het gekwalificeerd elektronisch zegel is verbonden.
   > 
-  > 
+  > [🌐 Rechtsgevolgen van elektronische zegels](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32014R0910&from=EN#d1e2698-73-1)
   
   
   
@@ -38,7 +38,7 @@ Oorspronkelijk gevraagd door [🏔️ Paul Staal](https://alkem.io/user/paul-sta
 
   #### Reacties
     - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-03-06 14:05 UTC
-      > Komt dit overeen met jouw begrip op basis van je verkenningen afgelopen weken?
+      >[🌐 @Paul Staal](https://alkem.io/user/paul-staal-854) Komt dit overeen met jouw begrip op basis van je verkenningen afgelopen weken?
 ## Gerelateerd
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)
 * * *
