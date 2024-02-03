@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Hoe weet ik of een QES bij een PID hoort?
 Als vertrouwende partij op zowel gekwalificeerde elektronische handtekeningen (QES) als attestaties van *person identification data* (PID) wil ik weten hoe ik deze aan elkaar kan koppelen, zodat ik het risico op identiteitsfraude kan beperken.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307)
 
 ## Antwoorden
 - ### <a id="uniekidentificeren-2659"></a> 📌 Uniek identificeren: noodzakelijk.
@@ -13,12 +11,10 @@ Als vertrouwende partij op zowel gekwalificeerde elektronische handtekeningen (Q
   
   Risico op verkeerd gebruik blijft wel bestaan denk aan een kwaadwillende de telefoon kan gebruiken van iemand anders; zijn/haar PID gebruikt om rekeningen te openen en andere dingen te doen.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeweetikofeenq-9307/posts/uniekidentificeren-2659)
 
   #### Reacties
-    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-19 17:08 UTC
+    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-19 17:08 UTC
           
       Met betrekking tot identity matching, zie ook: [📄 Wat is identity matching en discovery?](watisidentitymatc-4236.md)
 * * *

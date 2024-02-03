@@ -3,9 +3,7 @@
 Wat is de relatie tussen een data wallet en een data space?
 
 Wat zijn de verschillen en overeenkomsten?
-> Oorspronkelijk gevraagd door [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelatietu-747)
+> Oorspronkelijk gevraagd door [🏔️ Nitesh Bharosa](https://alkem.io/user/nitesh-bharosa-5829). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelatietu-747)
 
 ## Antwoorden
 - ### <a id="hetverschilzitin-1832"></a> 📌 Het verschil zit in de gebruiker?
@@ -13,9 +11,7 @@ Wat zijn de verschillen en overeenkomsten?
   
   De overeenkomst lijkt te zitten in data dalen vanuit de bron, waarbij consent voor toepassing en authenticiteit van data gewaarborgd zijn.
 
-  > Oorspronkelijk geantwoord door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832)
+  > Oorspronkelijk geantwoord door [🏔️ Victor den Bak](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisderelatietu-747/posts/hetverschilzitin-1832)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

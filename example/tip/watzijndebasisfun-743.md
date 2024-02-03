@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat zijn de basisfunctionaliteiten van TIP?
 Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specificeert.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743)
 
 ## Antwoorden
 - ### <a id="publicatieoverbasi-3454"></a> 📌 Publicatie over basisfunctionaliteiten
@@ -21,12 +19,10 @@ Als geïnteresseerde in TIP wil ik weten welke basisfunctionaliteiten TIP specif
   *   Consulting service chain specifications
   *   Making payments
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watzijndebasisfun-743/posts/publicatieoverbasi-3454)
 
   #### Reacties
-    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 14:59 UTC
+    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-01-10 14:59 UTC
           
       [🌐 @René Bonte](https://alkem.io/user/rene-bonte-9498) het klopt dat er intern een Engelstalige versie 1.2 bestaat die nog niet op deze website is gepubliceerd. De werkgroepen Techniek en Communicatie zijn in overleg over het publiceren van de volgende stukken.
 ## Verwijzingen naar deze vraag

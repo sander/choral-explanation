@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat kunnen we leren van het gebruik en toepassing van vertrouwensdiensten in Brazilië?
 Pronova (een TSP uit Brazilië  en actief in Canada, UK, Portugal) en ITI ( Instituto Nacional de Tecnologia da Informação)   hebben in een kennisbijeenkomst vertelt over het gebruik en de adoptie van vertrouwensdiensten door burgers en bedrijven. In dat land is de adoptiegraad en het gebruik van vertrouwensdiensten een stuk hoger; zo heeft bijna iedere burger/bedrijf een certificaat en daarmee kan je qua elektronische dienstverlening bijna alles online doen. Vragen die aan de orde komen zijn: hoe gebruiken ze vertrouwensdiensten bij het delen van gegevens?  Hoe gaan ze om met het valideren van verzegelde en ondertekende informatie? Wat zijn de drivers achter de adoptie?
-> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenweleren-7455)
+> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenweleren-7455)
 
 ## Antwoorden
 - ### <a id="recapvanontmoeting-4331"></a> 📌 Recap van ontmoeting Pronova en ITI
@@ -49,9 +47,7 @@ Pronova (een TSP uit Brazilië  en actief in Canada, UK, Portugal) en ITI ( Ins
   
   \*Bijdragen zijn gelicenseerd onder \*[🌐 *CC BY 4.0*](https://creativecommons.org/licenses/by/4.0/deed.nl).
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watkunnenweleren-7455/posts/recapvanontmoeting-4331)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>

@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Hoe kan de overheid wallets effectief reguleren?
 Als deelnemer van TIP wil ik weten wat de belangrijkste succesfactoren zijn voor effectieve regulering van wallets, zodat ik beter begrijp wat de relatie met TIP als publiek-private samenwerking hierin kan betekenen.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekandeoverheid-8045)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekandeoverheid-8045)
 
 ## Antwoorden
 - ### <a id="promotieonderzoek-2880"></a> 📌 Promotieonderzoek
@@ -18,12 +16,10 @@ Als deelnemer van TIP wil ik weten wat de belangrijkste succesfactoren zijn voor
   
   *   [📄 Welk probleem lost de EUDI-wallet op?](welkprobleemlostd-9718.md)
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekandeoverheid-8045/posts/promotieonderzoek-2880)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekandeoverheid-8045/posts/promotieonderzoek-2880)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/hoekandeoverheid-8045/posts/promotieonderzoek-2880). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoekandeoverheid-8045/posts/promotieonderzoek-2880)
 
   #### Reacties
-    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-05-11 14:28 UTC
+    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-05-11 14:28 UTC
           
       Deze vraag hebben we verder opgepakt in: https://alkem.io/tip/collaboration/hoekunnenweeffect-1138
 * * *

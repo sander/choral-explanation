@@ -5,9 +5,7 @@ Wat is goed, fout, verantwoord? Welke afwegingen spelen een rol en wie bewaakt z
 Is het wel verantwoord om een burger zoveel autonomie te geven? Wat voor zorgplicht heeft de overheid? En hoe kan iedereen mee doen?
 
 Zie sheets op [🌐 keynote-wwelling-digitale-identiteit.pdf (](https://www.surf.nl/files/2022-10/keynote-wwelling-digitale-identiteit.pdf)[🌐 surf.nl](http://surf.nl)[🌐 )](https://www.surf.nl/files/2022-10/keynote-wwelling-digitale-identiteit.pdf)
-> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272)
+> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272)
 
 ## Antwoorden
 - ### <a id="modelvoorethische-3267"></a> 📌 Model voor ethische waarde afwegingen die we wellicht kunnen gebruiken...
@@ -23,9 +21,7 @@ Zie sheets op [🌐 keynote-wwelling-digitale-identiteit.pdf (](https://www.surf
   
   <br>
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkeethischewaard-9272/posts/modelvoorethische-3267)
 
 ## Verwijzingen naar deze vraag
 - [📌 Wat is de kennisagenda van TIP? Kennisagenda](watisdekennisagen-9941.md#kennisagenda-5711)

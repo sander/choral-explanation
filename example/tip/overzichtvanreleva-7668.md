@@ -10,9 +10,7 @@ Daarnaast ontwikkelen we met TIP Werkgroep Kennis een gestructureerd overzicht l
 We richten ons op de implementatieplateaus voor TIP: (1) signatures en seals, (2) gegevensuitwisseling middels aangetekende bezorging, (3) brede toepassing TIP-afspraken. Dat betekent dat we in de gap-analyse van initiatieven langs deze prioritering naar de specificaties van basisfunctionaliteiten kijken. Zie ook: [📄 Wat zijn de basisfunctionaliteiten van TIP?](watzijndebasisfun-743.md)
 
 De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de analyse, en communiceert hierover met TIP-partners en belanghebbenden. Aanspreekpunt voor de verschillenanalyse is [🌐 Ralph Verhelst](https://alkem.io/user/ralph-verhelst-6873). Om bij te dragen heb je een account bij Alkemio nodig: zie [🌐 Aanmelden bij Alkemio](https://alkem.io/login?returnUrl=https://alkem.io/tip).
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668)
 
 ## Antwoorden
 - ### <a id="diip-7901"></a> 📌 DIIP
@@ -54,9 +52,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *   Attestation of attributes: DIIP heeft een nadere uitwerking van enkele ARF-standaarden waar TIP naar verwijst als een van de mogelijkheden om attributen te attesteren. Daarbij is DIIP meer “opiniated” in haar keuze voor de W3C-standaarden in plaats van de ISO-standaarden. Voor toepassingen in TIP zullen ook andere standaarden relevant blijven.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/diip-7901)
 
 - ### <a id="potentialuc5-2150"></a> 📌 Potential
   ## Beschrijving
@@ -93,9 +89,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *   Attestation of attributes: in 2024 kijkt UC5 naar welke attestering een QTSP nodig heeft om de sleutel voor handtekeningen/zegels te activeren, en eventueel om er een certificaat over uit te geven.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/potentialuc5-2150)
 
 - ### <a id="peppol-6470"></a> 📌 Peppol
   ## Beschrijving
@@ -144,9 +138,7 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   Later
 
-  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
+  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/peppol-6470)
 
 - ### <a id="nutszorg-9315"></a> 📌 Nuts (Zorg)
   ## Beschrijving
@@ -189,12 +181,10 @@ De werkgroep Kennis verzorgt een formulier met controlevragen, coördineert de a
   
   *…*
 
-  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
+  > Oorspronkelijk geantwoord door [🏔️ Ralph Verhelst](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/overzichtvanreleva-7668/posts/nutszorg-9315)
 
   #### Reacties
-    - > [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
+    - ##### [🏔️ Gijs van den Beucken](https://alkem.io/user/gijs-vandenbeucken-8950) 2024-02-02 11:31 UTC
           
       Algemene info
       https://nuts.nl

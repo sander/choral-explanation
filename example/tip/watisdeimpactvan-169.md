@@ -3,9 +3,7 @@
 Zie: [🌐 Persoonlijke Regelingen Assistent Persoonlijke Regelingen Assistent - Digitale Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/dienstverlening-aan-burgers-en-ondernemers/persoonlijke-regelingen-assistent/)
 
 Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de Dutch Blockchain Coalition (DBC) samen met het ministerie van BZK, verschillende partners als TNO, het ELSA Lab Schulden en Armoede, de Belastingdienst, de KVK en de Provincie Friesland aan een betere digitale dienstverlening.
-> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdeimpactvan-169)
+> Oorspronkelijk gevraagd door [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdeimpactvan-169)
 
 ## Antwoorden
 - ### <a id="persoonlijkismeer-4553"></a> 📌 Persoonlijk is meer dan techniek
@@ -13,12 +11,10 @@ Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de 
   
   Nog terugkomend op de meerwaarde van TIP en het delen van "authentieke" gegevens: daarmee sluit je fraude zo goed als uit; dat geeft dan ook ruimte om in uitvoering van regelingen garanties te geven dat de hulp via een regeling niet terug kan worden gevorderd. De focus ligt dan bij het controleren vooraf ipv achteraf. Betekent ook dat we de burger moeten/willen vertrouwen: dat is een politiek vraagstuk.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watisdeimpactvan-169/posts/persoonlijkismeer-4553)
 
   #### Reacties
-    - > [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:15 UTC
+    - ##### [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:15 UTC
           
       De link met toeslagen vind ik een erg lastige. 
       
@@ -29,16 +25,16 @@ Met het project ‘Persoonlijke Regelingen Assistent’ (PRA) bouwen ICTU en de 
       En toen ik als goedbetaalde ambtenaar een woning ging huren had ik nog 2 jaar recht op subsidie gebaseerd op inkomen van student. 
       
       Het toeslagen-systeem is daarom gebaseerd op het inkomen van het  lopende jaar. Dus als je in december y-1 toeslagen aanvraagt voorjaar y, heeft niemand nog enige zekerheid over je financiële situatie gedurende y, laat staan dat de Dienst Toeslagen de gegevens over je toekomstige inkomen kan controleren, laat staan daar een bindende uitspraak over doen. 
-    - > [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:16 UTC
+    - ##### [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:16 UTC
           
        De oplossing zit dus niet in techniek of in controle. De oplossing zit in samenspel van:
-    - > [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:17 UTC
+    - ##### [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:17 UTC
           
       - flexibele wetgeving
-    - > [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:17 UTC
+    - ##### [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:17 UTC
           
       - communicatie over gevolgen van veranderingen in persoonlijke situatie
-    - > [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:19 UTC
+    - ##### [🏔️ Frans Hietbrink](https://alkem.io/user/frans-hietbrink-4477) 2024-01-23 12:19 UTC
           
       - tussentijdse toetsing op basis van gegevens die Toeslagen heeft (inkomen, adres) maar die altijd onvolledig is (denk aan inkomen van zzp-er)
 ## Verwijzingen naar deze vraag

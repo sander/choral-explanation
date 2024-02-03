@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke rol speelt de overheid in TIP?
 Als deelnemer in TIP wil ik begrijpen **wat** de rol is die de overheid speelt in TIP, zodat ik hiermee rekening kan houden in mijn aanpak.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008)
 
 ## Antwoorden
 - ### <a id="rolleninhetalgeme-1409"></a> 📌 Rollen in het algemeen volgens de werkgroep
@@ -19,15 +17,13 @@ Als deelnemer in TIP wil ik begrijpen **wat** de rol is die de overheid speelt i
   
   *   financierend, denk aan het bieden van een platform voor publiek-private samenwerking
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welkerolspeeltde-1008/posts/rolleninhetalgeme-1409)
 
   #### Reacties
-    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-09-01 09:47 UTC
+    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2023-09-01 09:47 UTC
           
       Dit is verder besproken in een kennissessie. Zie: https://alkem.io/tip/collaboration/hoekunnenweeffect-1138
-    - > [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-02-02 11:13 UTC
+    - ##### [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) 2024-02-02 11:13 UTC
           
       Gerelateerd: [📄 Wat is de toegevoegde waarde van vertrouwensdiensten voor de digitale overheid?](watisdetoegevoegd-5977.md)
 ## Verwijzingen naar deze vraag

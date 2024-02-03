@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Wat is eIDAS?
 Als geïnteresserde wil ik weten __wat__ eIDAS is, zodat ik beter begrijp waar sommige afspraken rond TIP vandaan komen.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062)
 
 ## Antwoorden
 - ### <a id="europeseverordening-4270"></a> 📌 Europese verordening
@@ -11,9 +9,7 @@ Als geïnteresserde wil ik weten __wat__ eIDAS is, zodat ik beter begrijp waar s
   
   De oorspronkelijke tekst kun je lezen [🌐 op EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG). 
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/watiseidas-4062/posts/europeseverordening-4270)
 
 ## Verwijzingen naar deze vraag
 - [📌 Hoe kunnen we effectief publiek-privaat samenwerken aan een afsprakenstelsel? Raamwerken en abstractieniveaus](hoekunnenweeffect-1138.md#raamwerkenenabstra-6127)

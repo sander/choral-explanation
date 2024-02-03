@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Hoe verhoudt TIP zich tot het programma Regie op Gegevens?
 Welke rol speelt of gaat TIP spelen bij het programma Regie op Gegevens?
-> Oorspronkelijk gevraagd door [🏔️ marc winsemius](https://alkem.io/user/marc-winsemius-5005)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027)
+> Oorspronkelijk gevraagd door [🏔️ marc winsemius](https://alkem.io/user/marc-winsemius-5005). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027)
 
 ## Antwoorden
 - ### <a id="antwoordvanuitpers-6809"></a> 📌 Antwoord vanuit perspectief ROG
@@ -15,12 +13,10 @@ Welke rol speelt of gaat TIP spelen bij het programma Regie op Gegevens?
   
   TIP is een ecosysteem wat dit doel in de praktijk kan en gaat verwezenlijken.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Boer](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/hoeverhoudttipzic-5027/posts/antwoordvanuitpers-6809)
 
   #### Reacties
-    - > [🏔️ Paul Staal](https://alkem.io/user/paul-staal-854) 2023-03-09 16:29 UTC
+    - ##### [🏔️ Paul Staal](https://alkem.io/user/paul-staal-854) 2023-03-09 16:29 UTC
           
       Is het mogelijk om hier ook de link naar de TIP website op te nemen?
 * * *

@@ -1,9 +1,7 @@
 [🏔️ Alkemio](https://welcome.alkem.io/) › [🏔️ TIP](https://alkem.io/tip/dashboard) › Kennisbank
 # 📄 Welke typen transacties zijn te ondertekenen?
 Bij implementatie van de basisfunctionaliteit *Signing data* wil ik weten welke type transacties ik kan onderscheiden, zodat ik daarmee rekening kan houden in beleid.
-> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912)
->
-> [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429)
+> Oorspronkelijk gevraagd door [🏔️ Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429)
 
 ## Antwoorden
 - ### <a id="pkioverheidauthent-6351"></a> 📌 PKIoverheid: authenticity, non-repudiation
@@ -20,12 +18,10 @@ Bij implementatie van de basisfunctionaliteit *Signing data* wil ik weten welke 
   
   Het non-repudiation certificaat kan ook worden gebruikt voor authenticatie, met als kanttekening dat de ondertekende verklaring dan ook onweerlegbaar is.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/pkioverheidauthent-6351)
 
   #### Reacties
-    - > [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499) 2024-01-15 13:09 UTC
+    - ##### [🏔️ Sander Boer](https://alkem.io/user/sander-boer-499) 2024-01-15 13:09 UTC
           
       [🌐 @Sander Dijkhuis](https://alkem.io/user/sander-dijkhuis-3912) :  kan je de laatste zinnen nog wat toelichten?  Die zijn voor mij wat te cryptisch.
 - ### <a id="documentenenservic-8288"></a> 📌 Documenten en serviceberichten
@@ -41,9 +37,7 @@ Bij implementatie van de basisfunctionaliteit *Signing data* wil ik weten welke 
   
   Het is raadzaam om het onderscheid expliciet te maken in een *signature policy* ([📄 Wat zijn signature policies en wat heb je er aan?](watzijnsignaturep-7232.md)) en bijvoorbeeld gebruik te maken van *commitment types* zoals beschreven in het ESI Framework.
 
-  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288)
-  >
-  > [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288)
+  > Oorspronkelijk geantwoord door [🏔️ Sander Dijkhuis](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288). [`🏔️ Origineel`](https://alkem.io/tip/collaboration/welketypentransact-1429/posts/documentenenservic-8288)
 
 * * *
 <small>Bijdragen zijn gelicenseerd onder [🌐 CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.nl).</small>
