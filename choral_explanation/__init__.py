@@ -127,14 +127,14 @@ def _alkemio_link(label, url):
 def _linked_author(item):
     return _alkemio_link(item["author_name"], item["author_url"])
 
-def _quote(markdown):
-    return "".join([f">{line}\n" for line in markdown.splitlines()])
-
 def _readable_date(contribution):
     return contribution["date"].strftime("%Y-%m-%d %H:%M UTC")
 
 def _indent(markdown):
     return "".join([f"  {line}\n" for line in markdown.splitlines()])
+
+def _quote(markdown):
+    return "".join([f"> {line}\n" for line in markdown.splitlines()])
 
 def _replace_links(markdown, index):
     def replacement(match):
@@ -214,4 +214,58 @@ def write_github_flavored_md(question, dir_path, index):
         file.write("* * *\n<small>Bijdragen zijn gelicenseerd onder [🌐 CC BY "
                    + "4.0](https://creativecommons.org/licenses/by/4.0/deed.nl)"
                    + ".</small>")
+        file.write("\n")
+
+def _obsidian_file_name(title):
+    return f"{title.replace('/', " of ")}"
+
+def _replace_obsidian_links(markdown, index):
+    def replacement(match):
+        label, url = match.groups()
+        match = _CALLOUT_URL.match(url)
+        if match:
+            dict = match.groupdict()
+            question = dict['q1'] or dict['q2']
+            question_title = index[(question,)]['question']
+            question_uri = _obsidian_file_name(question_title)
+            answer = dict['a1']
+            if answer:
+                answer_title = index[(question, answer)]['answer']
+                return f"[[{question_uri}#{answer_title}]]"
+            else:
+                return f"[[{question_uri}]]"
+        else:
+            return f"[🌐 {label}]({url})"
+    return _INLINE_LINK.sub(replacement, markdown)
+
+def write_obsidian_md(question, dir_path, index):
+    file_path = f"{dir_path}/{_obsidian_file_name(question['title'])}.md"
+    with open(file_path, "w") as file:
+        file.write(f"---\nLicentie: CC BY 4.0\n")
+        file.write(f"Origineel: {question['url']}\n")
+        file.write("---\n")
+        file.write(_replace_obsidian_links(question["description_md"], index))
+        file.write("\n\n")
+        if "author_name" in question:
+            file.write(f"> [!faq] Vraag oorspronkelijk gesteld door "
+                       + f"[{question['author_name']}]"
+                       + f"({question['author_url']})\n\n")
+        for answer in question["answers"]:
+            file.write(f"## {answer['title']}\n\n")
+            file.write(_indent(
+                _replace_obsidian_links(answer["description_md"], index)))
+            file.write(f"\n> [!info] Antwoord oorspronkelijk geschreven door "
+                       + f"{_linked_author(answer)}\n\n")
+            for comment in answer["comments"]:
+                file.write(f"> [!note] Reactie van "
+                           + f"{_linked_author(comment)} op "
+                           + f"{_readable_date(comment)}"
+                           + f"\n")
+                file.write(_quote(
+                    _replace_obsidian_links(comment["content_md"], index)))
+                file.write("\n")
+        incoming = {}
+        for src, props in index.items():
+            if (question['id'],) in props['outgoing']:
+                incoming[src] = props
         file.write("\n")
