@@ -28,12 +28,15 @@ def _fetch_json(http_request):
     text = response.read().decode("utf-8")
     return json.loads(text)
 
-def fetch_question_list_data(space_name_id):
+def fetch_space_data(space_name_id):
     queries = _read_queries()
     variables = {'spaceNameId': space_name_id}
     request = _http_request(queries, 'questions', variables)
     response = _fetch_json(request)
-    return response["data"]["space"]["collaboration"]["callouts"]
+    return response['data']['space']
+
+def fetch_question_list_data(space_name_id):
+    return fetch_space_data(space_name_id)['collaboration']['callouts']
 
 def _strip_license(markdown):
     return re.sub(r".*Bijdragen zijn gelicenseerd onder.*"
@@ -116,7 +119,7 @@ def _index(question):
         }
     return index
 
-def index_all(questions):
+def index_all(questions, authors):
     for question in questions:
         for item in _index(question).items():
             yield item
@@ -125,7 +128,7 @@ def _alkemio_link(label, url):
     return f"[🏔️ {label}]({url})"
 
 def _linked_author(item):
-    return _alkemio_link(item["author_name"], item["author_url"])
+    return f"[[{item["author_name"]}]]"
 
 def _readable_date(contribution):
     return contribution["date"].strftime("%Y-%m-%d %H:%M UTC")
@@ -219,7 +222,7 @@ def write_github_flavored_md(question, dir_path, index):
 def _obsidian_file_name(title):
     return f"{title.replace('/', " of ")}"
 
-def _replace_obsidian_links(markdown, index):
+def _replace_obsidian_links(markdown, index, authors):
     def replacement(match):
         label, url = match.groups()
         match = _CALLOUT_URL.match(url)
@@ -235,36 +238,75 @@ def _replace_obsidian_links(markdown, index):
             else:
                 return f"[[{question_uri}]]"
         else:
-            return f"[🌐 {label}]({url})"
+            match = [name for name, author_url in authors if url == author_url]
+            if len(match) > 0:
+                return f"[[{match[0]}]]"
+            else:
+                return f"[{label}]({url})"
     return _INLINE_LINK.sub(replacement, markdown)
 
-def write_obsidian_md(question, dir_path, index):
+def write_obsidian_md(question, dir_path, index, authors):
     file_path = f"{dir_path}/{_obsidian_file_name(question['title'])}.md"
     with open(file_path, "w") as file:
-        file.write(_replace_obsidian_links(question["description_md"], index))
-        file.write("\n\n")
         if "author_name" in question:
-            file.write(f"> [!faq] Vraag oorspronkelijk gesteld door "
-                       + f"[{question['author_name']}]"
-                       + f"({question['author_url']})\n\n")
+            file.write(f"> [!faq] "
+                       + _linked_author(question) + "\n")
+        file.write(_quote(_replace_obsidian_links(question["description_md"], index, authors)))
+        file.write("\n\n")
         for answer in question["answers"]:
             file.write(f"## {answer['title']}\n\n")
             file.write(_indent(
-                _replace_obsidian_links(answer["description_md"], index)))
-            file.write(f"\n> [!info] Antwoord oorspronkelijk geschreven door "
+                _replace_obsidian_links(answer["description_md"], index, authors)))
+            file.write(f"\n> [!info] "
                        + f"{_linked_author(answer)}\n\n")
             for comment in answer["comments"]:
-                file.write(f"> [!note] Reactie van "
-                           + f"{_linked_author(comment)} op "
+                file.write(f"> [!note] "
+                           + f"{_linked_author(comment)} "
                            + f"{_readable_date(comment)}"
                            + f"\n")
                 file.write(_quote(
-                    _replace_obsidian_links(comment["content_md"], index)))
+                    _replace_obsidian_links(comment["content_md"], index, authors)))
                 file.write("\n")
         incoming = {}
         for src, props in index.items():
             if (question['id'],) in props['outgoing']:
                 incoming[src] = props
-        file.write("\n")
-        file.write(f"Licentie: CC BY 4.0. ")
-        file.write(f"Origineel: {question['url']}\n")
+        file.write("***\n")
+        file.write(f"[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ")
+        file.write(f"[Source]({question['url']})\n")
+
+def authors(question):
+    def author(item):
+        if not 'author_name' in item or not 'author_url' in item: return
+        yield (item['author_name'], item['author_url'])
+    yield from author(question)
+    for answer in question['answers']:
+        yield from author(answer)
+        for comment in answer['comments']:
+            yield from author(comment)
+
+def write_author_obsidian_md(author_name, author_url, dir_path):
+    file_path = f"{dir_path}/Participants/{_obsidian_file_name(author_name)}.md"
+    with open(file_path, "w") as file:
+        file.write(f"[Profile]({author_url})")
+
+def stats(questions):
+    answers = sum([len(question['answers']) for question in questions])
+    authors = len({
+        question['author_name']
+        for question in questions
+        if 'author_name' in question
+    }.union({
+        answer['author_name']
+        for question in questions
+        for answer in question['answers']
+    }))
+    return {'questions': len(questions), 'answers': answers, 'authors': authors}
+
+def write_author_index_obsidian_md(stats, author_names, dir_path):
+    file_path = f"{dir_path}/§ Participation.md"
+    with open(file_path, "w") as file:
+        file.write("|Questions|Answers|Authors|\n|--|--|--|\n")
+        file.write(f"|{stats['questions']}|{stats['answers']}|{stats['authors']}|\n\n")
+        for name in author_names:
+            file.write(f"- [[{name}]]\n")

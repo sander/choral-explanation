@@ -1,5 +1,15 @@
 query questions($spaceNameId: UUID_NAMEID!) {
   space(ID: $spaceNameId) {
+    community {
+      memberUsers {
+        nameID
+        profile {
+          displayName
+          description
+          url
+        }
+      }
+    }
     collaboration {
       callouts(limit: 500) {
         nameID
