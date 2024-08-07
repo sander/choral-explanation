@@ -64,6 +64,8 @@ def question(question_data):
     if by != None:
         question = question | _author(by)
     for answer_data in question_data["contributions"]:
+        if answer_data['post'] == None:
+            continue
         answer = {
             "id": answer_data["post"]["nameID"],
             "title": answer_data["post"]["profile"]["displayName"].strip(),
@@ -119,7 +121,7 @@ def _index(question):
         }
     return index
 
-def index_all(questions, authors):
+def index_all(questions):
     for question in questions:
         for item in _index(question).items():
             yield item
