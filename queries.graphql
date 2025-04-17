@@ -14,12 +14,7 @@ query questions($spaceID: UUID!) {
           }
           createdBy {
             profile {
-              url
-              displayName
-              description
-              visual(type: AVATAR) {
-                uri
-              }
+              ...fullUserProfile
             }
           }
           framing {
@@ -39,12 +34,7 @@ query questions($spaceID: UUID!) {
               updatedDate
               createdBy {
                 profile {
-                  url
-                  displayName
-                  description
-                  visual(type: AVATAR) {
-                    uri
-                  }
+                  ...fullUserProfile
                 }
               }
               profile {
@@ -54,30 +44,21 @@ query questions($spaceID: UUID!) {
               }
               comments {
                 messages {
+                  id
                   threadID
                   reactions {
                     emoji
                     id
                     sender {
                       profile {
-                        url
-                        displayName
-                        description
-                        visual(type: AVATAR) {
-                          uri
-                        }
+                        ...fullUserProfile
                       }
                     }
                     timestamp
                   }
                   sender {
                     profile {
-                      url
-                      displayName
-                      description
-                      visual(type: AVATAR) {
-                        uri
-                      }
+                      ...fullUserProfile
                     }
                   }
                   timestamp
@@ -89,5 +70,27 @@ query questions($spaceID: UUID!) {
         }
       }
     }
+  }
+}
+
+fragment fullUserProfile on Profile {
+  id
+  location {
+    city
+    country
+  }
+  references {
+    name
+    description
+    uri
+  }
+  tagline
+  createdDate
+  updatedDate
+  url
+  displayName
+  description
+  visual(type: AVATAR) {
+    uri
   }
 }
