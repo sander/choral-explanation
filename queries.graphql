@@ -1,46 +1,88 @@
-query questions($spaceNameId: UUID_NAMEID!) {
-  space(ID: $spaceNameId) {
+query questions($spaceID: UUID!) {
+  spaces(IDs: [$spaceID]) {
     collaboration {
-      callouts(limit: 500) {
-        nameID
-        type
-        createdBy {
-          profile {
-            url
-            displayName
-          }
-        }
-        framing {
-          profile {
-            url
-            displayName
-            description
-          }
-        }
-        contributions {
-          post {
-            nameID
-            createdBy {
-              profile {
-                url
-                displayName
-              }
+      calloutsSet {
+        callouts {
+          nameID
+          type
+          createdDate
+          updatedDate
+          classification {
+            tagsets {
+              tags
             }
+          }
+          createdBy {
             profile {
               url
               displayName
               description
+              visual(type: AVATAR) {
+                uri
+              }
             }
-            comments {
-              messages {
-                sender {
-                  profile {
-                    url
-                    displayName
+          }
+          framing {
+            profile {
+              url
+              displayName
+              description
+              tagsets {
+                tags
+              }
+            }
+          }
+          contributions {
+            post {
+              nameID
+              createdDate
+              updatedDate
+              createdBy {
+                profile {
+                  url
+                  displayName
+                  description
+                  visual(type: AVATAR) {
+                    uri
                   }
                 }
-                timestamp
-                message
+              }
+              profile {
+                url
+                displayName
+                description
+              }
+              comments {
+                messages {
+                  threadID
+                  reactions {
+                    emoji
+                    id
+                    sender {
+                      profile {
+                        url
+                        displayName
+                        description
+                        visual(type: AVATAR) {
+                          uri
+                        }
+                      }
+                    }
+                    timestamp
+                  }
+                  sender {
+                    profile {
+                      url
+                      displayName
+                      description
+                      visual(type: AVATAR) {
+                        uri
+                      }
+                    }
+                  }
+                  timestamp
+                  message
+                }
               }
             }
           }

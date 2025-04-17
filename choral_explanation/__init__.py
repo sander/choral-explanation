@@ -1,4 +1,4 @@
-# Copyright sander.dijkhuis@cleverbase.com 2024; Licensed under the EUPL.
+# Copyright sander.dijkhuis@cleverbase.com 2024--2025; Licensed under the EUPL.
 
 import json
 import re
@@ -27,6 +27,12 @@ def _fetch_json(http_request):
     response = urllib.request.urlopen(http_request)
     text = response.read().decode("utf-8")
     return json.loads(text)
+
+def fetch_question_data(space_uuid):
+    queries = _read_queries()
+    variables = {'spaceID': space_uuid}
+    request = _http_request(queries, 'questions', variables)
+    return _fetch_json(request)
 
 def fetch_space_data(space_name_id):
     queries = _read_queries()
