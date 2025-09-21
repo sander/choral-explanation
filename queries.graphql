@@ -4,7 +4,6 @@ query questions($spaceID: UUID!) {
       calloutsSet {
         callouts {
           nameID
-          type
           createdDate
           updatedDate
           classification {
@@ -41,29 +40,6 @@ query questions($spaceID: UUID!) {
                 url
                 displayName
                 description
-              }
-              comments {
-                messages {
-                  id
-                  threadID
-                  reactions {
-                    emoji
-                    id
-                    sender {
-                      profile {
-                        ...fullUserProfile
-                      }
-                    }
-                    timestamp
-                  }
-                  sender {
-                    profile {
-                      ...fullUserProfile
-                    }
-                  }
-                  timestamp
-                  message
-                }
               }
             }
           }
